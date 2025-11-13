@@ -91,6 +91,9 @@ def load_config():
         "FEISHU_MESSAGE_SEPARATOR": config_data["notification"][
             "feishu_message_separator"
         ],
+        "ENABLE_MARKDOWN_OUTPUT": config_data["notification"].get(
+            "enable_markdown_output", False
+        ),
         "PUSH_WINDOW": {
             "ENABLED": os.environ.get("PUSH_WINDOW_ENABLED", "").strip().lower()
             in ("true", "1")
@@ -1635,6 +1638,56 @@ def generate_html_report(
     return file_path
 
 
+def generate_markdown_report(
+    stats: List[Dict],
+    total_titles: int,
+    failed_ids: Optional[List] = None,
+    new_titles: Optional[Dict] = None,
+    id_to_name: Optional[Dict] = None,
+    mode: str = "daily",
+    is_daily_summary: bool = False,
+    update_info: Optional[Dict] = None,
+) -> Optional[str]:
+    """生成Markdown报告"""
+    # 检查是否启用了Markdown输出
+    if not CONFIG["ENABLE_MARKDOWN_OUTPUT"]:
+        return None
+
+    if is_daily_summary:
+        if mode == "current":
+            filename = "当前榜单汇总.md"
+        elif mode == "incremental":
+            filename = "当日增量.md"
+        else:
+            filename = "当日汇总.md"
+    else:
+        filename = f"{format_time_filename()}.md"
+
+    # 确保markdown目录存在
+    date_folder = format_date_folder()
+    output_dir = Path("output") / date_folder / "markdown"
+    ensure_directory_exists(str(output_dir))
+    file_path = str(output_dir / filename)
+
+    report_data = prepare_report_data(stats, failed_ids, new_titles, id_to_name, mode)
+
+    markdown_content = render_markdown_content(
+        report_data, total_titles, is_daily_summary, mode, update_info
+    )
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(markdown_content)
+
+    # 如果是每日汇总，也保存一份到根目录
+    if is_daily_summary:
+        root_file_path = Path("trendradar_report.md")
+        with open(root_file_path, "w", encoding="utf-8") as f:
+            f.write(markdown_content)
+        print(f"Markdown报告已生成: {root_file_path}")
+
+    return file_path
+
+
 def render_html_content(
     report_data: Dict,
     total_titles: int,
@@ -2642,6 +2695,221 @@ def render_html_content(
     """
 
     return html
+
+
+def render_markdown_content(
+    report_data: Dict,
+    total_titles: int,
+    is_daily_summary: bool = False,
+    mode: str = "daily",
+    update_info: Optional[Dict] = None,
+) -> str:
+    """渲染Markdown内容"""
+    # 处理报告类型显示
+    if is_daily_summary:
+        if mode == "current":
+            report_type = "当前榜单"
+        elif mode == "incremental":
+            report_type = "增量模式"
+        else:
+            report_type = "当日汇总"
+    else:
+        report_type = "实时分析"
+
+    # 计算筛选后的热点新闻数量
+    hot_news_count = sum(len(stat["titles"]) for stat in report_data["stats"])
+
+    # 获取当前时间
+    now = get_beijing_time()
+
+    # 构建Markdown内容
+    markdown_content = f"""# 📊 TrendRadar 热点新闻分析
+
+---
+
+## 📋 报告概览
+
+| 项目 | 内容 |
+|------|------|
+| **报告类型** | {report_type} |
+| **新闻总数** | {total_titles} 条 |
+| **热点新闻** | {hot_news_count} 条 |
+| **生成时间** | {now.strftime('%m-%d %H:%M')} |
+
+---
+
+"""
+
+    # 处理失败ID错误信息
+    if report_data["failed_ids"]:
+        markdown_content += """## ⚠️ 请求失败的平台
+
+"""
+        for id_value in report_data["failed_ids"]:
+            markdown_content += f"- `{id_value}`\n"
+        markdown_content += "\n---\n\n"
+
+    # 处理主要统计数据
+    if report_data["stats"]:
+        markdown_content += """## 🔥 热点词汇统计
+
+"""
+        total_count = len(report_data["stats"])
+
+        for i, stat in enumerate(report_data["stats"], 1):
+            count = stat["count"]
+            word = stat["word"]
+
+            # 确定热度图标
+            if count >= 10:
+                emoji = "🔥"
+            elif count >= 5:
+                emoji = "📈"
+            else:
+                emoji = "📌"
+
+            markdown_content += f"""### {emoji} {word} ({count} 条)
+
+[{i}/{total_count}]
+
+---
+
+"""
+
+            # 处理每个词组下的新闻标题
+            for j, title_data in enumerate(stat["titles"], 1):
+                title = title_data["title"]
+                source_name = title_data["source_name"]
+
+                # 处理排名显示
+                ranks = title_data.get("ranks", [])
+                if ranks:
+                    min_rank = min(ranks)
+                    max_rank = max(ranks)
+                    rank_threshold = title_data.get("rank_threshold", 10)
+
+                    # 确定排名等级
+                    if min_rank <= 3:
+                        rank_emoji = "🏆"
+                    elif min_rank <= rank_threshold:
+                        rank_emoji = "⭐"
+                    else:
+                        rank_emoji = "📊"
+
+                    if min_rank == max_rank:
+                        rank_text = f"{rank_emoji}{min_rank}"
+                    else:
+                        rank_text = f"{rank_emoji}{min_rank}-{max_rank}"
+                else:
+                    rank_text = "❓"
+
+                # 处理时间显示
+                time_display = title_data.get("time_display", "")
+                if time_display:
+                    # 简化时间显示格式
+                    simplified_time = (
+                        time_display.replace(" ~ ", "~")
+                        .replace("[", "")
+                        .replace("]", "")
+                    )
+                    time_info = f" • 🕐 {simplified_time}"
+                else:
+                    time_info = ""
+
+                # 处理出现次数
+                count_info = title_data.get("count", 1)
+                if count_info > 1:
+                    count_info = f" • 🔁 {count_info}次"
+                else:
+                    count_info = ""
+
+                # 处理新增标记
+                new_marker = "🆕 " if title_data.get("is_new") else ""
+
+                # 处理URL
+                url = title_data.get("mobile_url") or title_data.get("url", "")
+                if url:
+                    formatted_title = f"[{new_marker}{title}]({url})"
+                else:
+                    formatted_title = f"{new_marker}{title}"
+
+                markdown_content += f"""**{j}.** {formatted_title} `{rank_text}` • 📺 {source_name}{time_info}{count_info}
+
+"""
+
+            if i < len(report_data["stats"]):
+                markdown_content += "---\n\n"
+
+    # 处理新增新闻区域
+    if report_data["new_titles"]:
+        markdown_content += f"""---
+
+## 🆕 本次新增热点新闻 (共 {report_data['total_new_count']} 条)
+
+"""
+        for source_data in report_data["new_titles"]:
+            source_name = source_data["source_name"]
+            titles_count = len(source_data["titles"])
+
+            markdown_content += f"""### 📺 {source_name} · {titles_count}条
+
+---
+"""
+            # 为新增新闻添加序号
+            for idx, title_data in enumerate(source_data["titles"], 1):
+                title = title_data["title"]
+
+                # 处理新增新闻的排名显示
+                ranks = title_data.get("ranks", [])
+                if ranks:
+                    min_rank = min(ranks)
+                    if min_rank <= 3:
+                        rank_emoji = "🏆"
+                    elif min_rank <= title_data.get("rank_threshold", 10):
+                        rank_emoji = "⭐"
+                    else:
+                        rank_emoji = "📊"
+
+                    if len(ranks) == 1:
+                        rank_text = f"{rank_emoji}{ranks[0]}"
+                    else:
+                        rank_text = f"{rank_emoji}{min(ranks)}-{max(ranks)}"
+                else:
+                    rank_text = "❓"
+
+                # 处理URL
+                url = title_data.get("mobile_url") or title_data.get("url", "")
+                if url:
+                    formatted_title = f"[{title}]({url})"
+                else:
+                    formatted_title = title
+
+                markdown_content += f"""**{idx}.** {formatted_title} `{rank_text}`
+
+"""
+            markdown_content += "---\n\n"
+
+    # 添加页脚
+    markdown_content += """---
+
+## 📝 关于
+
+本报告由 **TrendRadar** 生成
+
+- 🌐 **GitHub**: [https://github.com/sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+- 📧 **开源项目**: 热点新闻分析与监控系统
+- 🔧 **版本信息**: 自动爬取、智能分析、多平台推送
+
+"""
+
+    if update_info:
+        markdown_content += f"""---
+
+> 💡 **版本提示**: 发现新版本 {update_info['remote_version']}，当前版本 {update_info['current_version']}
+
+"""
+
+    return markdown_content
 
 
 def render_feishu_content(
@@ -4206,8 +4474,8 @@ class NewsAnalyzer:
         id_to_name: Dict,
         failed_ids: Optional[List] = None,
         is_daily_summary: bool = False,
-    ) -> Tuple[List[Dict], str]:
-        """统一的分析流水线：数据处理 → 统计计算 → HTML生成"""
+    ) -> Tuple[List[Dict], str, Optional[str]]:
+        """统一的分析流水线：数据处理 → 统计计算 → HTML生成 → Markdown生成"""
 
         # 统计计算
         stats, total_titles = count_word_frequency(
@@ -4233,7 +4501,24 @@ class NewsAnalyzer:
             update_info=self.update_info if CONFIG["SHOW_VERSION_UPDATE"] else None,
         )
 
-        return stats, html_file
+        # Markdown生成
+        markdown_file = generate_markdown_report(
+            stats,
+            total_titles,
+            failed_ids=failed_ids,
+            new_titles=new_titles,
+            id_to_name=id_to_name,
+            mode=mode,
+            is_daily_summary=is_daily_summary,
+            update_info=self.update_info if CONFIG["SHOW_VERSION_UPDATE"] else None,
+        )
+
+        if markdown_file:
+            print(f"Markdown报告已生成: {markdown_file}")
+        elif CONFIG["ENABLE_MARKDOWN_OUTPUT"]:
+            print("Markdown输出功能已启用，但本次未生成Markdown文件")
+
+        return stats, html_file, markdown_file
 
     def _send_notification_if_needed(
         self,
@@ -4303,7 +4588,7 @@ class NewsAnalyzer:
         )
 
         # 运行分析流水线
-        stats, html_file = self._run_analysis_pipeline(
+        stats, html_file, markdown_file = self._run_analysis_pipeline(
             all_results,
             mode_strategy["summary_mode"],
             title_info,
@@ -4344,7 +4629,7 @@ class NewsAnalyzer:
         )
 
         # 运行分析流水线
-        _, html_file = self._run_analysis_pipeline(
+        _, html_file, _ = self._run_analysis_pipeline(
             all_results,
             mode,
             title_info,
@@ -4432,7 +4717,7 @@ class NewsAnalyzer:
                     f"current模式：使用过滤后的历史数据，包含平台：{list(all_results.keys())}"
                 )
 
-                stats, html_file = self._run_analysis_pipeline(
+                stats, html_file, markdown_file = self._run_analysis_pipeline(
                     all_results,
                     self.report_mode,
                     historical_title_info,
@@ -4464,7 +4749,7 @@ class NewsAnalyzer:
                 raise RuntimeError("数据一致性检查失败：保存后立即读取失败")
         else:
             title_info = self._prepare_current_title_info(results, time_info)
-            stats, html_file = self._run_analysis_pipeline(
+            stats, html_file, markdown_file = self._run_analysis_pipeline(
                 results,
                 self.report_mode,
                 title_info,
