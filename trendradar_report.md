@@ -7,9 +7,9 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 445 条 |
+| **新闻总数** | 477 条 |
 | **热点新闻** | 24 条 |
-| **生成时间** | 11-15 03:17 |
+| **生成时间** | 11-15 04:23 |
 
 ---
 
@@ -21,43 +21,43 @@
 
 ---
 
-**1.** [告别查不到的生词和老旧例句：这本会生长的 AI 词典，让你的语言学习跟上时代！](https://www.v2ex.com/t/1172888) `🏆3` • 📺 V2EX • 🕐 00时28分~03时17分 • 🔁 4次
+**1.** [告别查不到的生词和老旧例句：这本会生长的 AI 词典，让你的语言学习跟上时代！](https://www.v2ex.com/t/1172888) `🏆3` • 📺 V2EX • 🕐 00时28分~04时23分 • 🔁 5次
 
-**2.** [AI 编程神器 Cursor 估值一年狂飙近 12 倍，谷歌、英伟达排队“送钱”](https://www.ithome.com/0/897/582.htm) `⭐4` • 📺 IT之家 • 🕐 00时28分~03时17分 • 🔁 4次
+**2.** [AI 编程神器 Cursor 估值一年狂飙近 12 倍，谷歌、英伟达排队“送钱”](https://www.ithome.com/0/897/582.htm) `⭐4` • 📺 IT之家 • 🕐 00时28分~04时23分 • 🔁 5次
 
-**3.** [I think nobody wants AI in Firefox, Mozilla](https://news.ycombinator.com/item?id=45926779) `🏆1-17` • 📺 Hacker News • 🕐 00时28分~03时17分 • 🔁 4次
+**3.** [I think nobody wants AI in Firefox, Mozilla](https://news.ycombinator.com/item?id=45926779) `🏆1-24` • 📺 Hacker News • 🕐 00时28分~04时23分 • 🔁 5次
 
-**4.** [Magit manuals are available online again](https://news.ycombinator.com/item?id=45926037) `⭐5-14` • 📺 Hacker News • 🕐 00时28分~03时17分 • 🔁 4次
+**4.** [Magit manuals are available online again](https://news.ycombinator.com/item?id=45926037) `⭐5-17` • 📺 Hacker News • 🕐 00时28分~04时23分 • 🔁 5次
 
-**5.** [英特尔 CEO 陈立武称 AI 团队经历了“相当大变化”，将亲自掌舵 AI 与先进技术业务](https://www.ithome.com/0/897/577.htm) `📊7` • 📺 IT之家 • 🕐 00时28分~03时17分 • 🔁 4次
+**5.** [英特尔 CEO 陈立武称 AI 团队经历了“相当大变化”，将亲自掌舵 AI 与先进技术业务](https://www.ithome.com/0/897/577.htm) `📊7` • 📺 IT之家 • 🕐 00时28分~04时23分 • 🔁 5次
 
-**6.** [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://news.ycombinator.com/item?id=45927435) `📊8-24` • 📺 Hacker News • 🕐 00时28分~03时17分 • 🔁 4次
+**6.** [【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发](https://www.cls.cn/detail/2200994) `📊9-10` • 📺 财联社热门 • 🕐 00时28分~04时23分 • 🔁 5次
 
-**7.** [【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发](https://www.cls.cn/detail/2200994) `📊10` • 📺 财联社热门 • 🕐 00时28分~03时17分 • 🔁 4次
+**7.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~04时23分 • 🔁 5次
 
-**8.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~03时17分 • 🔁 4次
+**8.** [ChatGPT 终于听话：可按照用户要求不再使用破折号](https://www.ithome.com/0/897/573.htm) `📊11` • 📺 IT之家 • 🕐 00时28分~04时23分 • 🔁 5次
 
-**9.** [ChatGPT 终于听话：可按照用户要求不再使用破折号](https://www.ithome.com/0/897/573.htm) `📊11` • 📺 IT之家 • 🕐 00时28分~03时17分 • 🔁 4次
+**9.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~04时23分 • 🔁 5次
 
-**10.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~03时17分 • 🔁 4次
+**10.** [Anthropic 揭露全球首例“AI 自主网络攻击”事件，约 30 家企业机构受影响](https://www.ithome.com/0/897/565.htm) `📊18` • 📺 IT之家 • 🕐 00时28分~04时23分 • 🔁 5次
 
-**11.** [Anthropic 揭露全球首例“AI 自主网络攻击”事件，约 30 家企业机构受影响](https://www.ithome.com/0/897/565.htm) `📊18` • 📺 IT之家 • 🕐 00时28分~03时17分 • 🔁 4次
+**11.** [微软 CEO 纳德拉谈 AGI：若单一主导 AI 模型普及，市场将终结](https://www.ithome.com/0/897/561.htm) `📊21` • 📺 IT之家 • 🕐 00时28分~04时23分 • 🔁 5次
 
-**12.** [微软 CEO 纳德拉谈 AGI：若单一主导 AI 模型普及，市场将终结](https://www.ithome.com/0/897/561.htm) `📊21` • 📺 IT之家 • 🕐 00时28分~03时17分 • 🔁 4次
+**12.** [独立开发， AI 编程处女作，效果很惊艳，效率提升明显](https://www.v2ex.com/t/1172772) `📊23` • 📺 V2EX • 🕐 00时28分~04时23分 • 🔁 5次
 
-**13.** [独立开发， AI 编程处女作，效果很惊艳，效率提升明显](https://www.v2ex.com/t/1172772) `📊23` • 📺 V2EX • 🕐 00时28分~03时17分 • 🔁 4次
+**13.** [AI World Clocks](https://news.ycombinator.com/item?id=45930151) `🏆1-13` • 📺 Hacker News • 🕐 03时17分~04时23分 • 🔁 2次
 
-**14.** [RetailReady (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45928822) `📊6-10` • 📺 Hacker News • 🕐 01时18分~03时17分 • 🔁 3次
+**14.** [RetailReady (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45928822) `📊6-13` • 📺 Hacker News • 🕐 01时18分~04时23分 • 🔁 4次
 
-**15.** [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://news.ycombinator.com/item?id=45927210) `📊7-11` • 📺 Hacker News • 🕐 01时18分~03时17分 • 🔁 3次
+**15.** [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://news.ycombinator.com/item?id=45927210) `📊7-20` • 📺 Hacker News • 🕐 01时18分~04时23分 • 🔁 4次
 
-**16.** [Nano Banana can be prompt engineered for nuanced AI image generation](https://news.ycombinator.com/item?id=45917875) `📊11-19` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
+**16.** [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://news.ycombinator.com/item?id=45927435) `📊8-24` • 📺 Hacker News • 🕐 00时28分~03时17分 • 🔁 4次
 
-**17.** [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://news.ycombinator.com/item?id=45918638) `📊21-30` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
+**17.** [豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首](https://wallstreetcn.com/articles/3759380) `📊10` • 📺 华尔街见闻 • 🕐 02时30分~04时23分 • 🔁 3次
 
-**18.** [豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首](https://wallstreetcn.com/articles/3759380) `📊10` • 📺 华尔街见闻 • 🕐 02时30分~03时17分 • 🔁 2次
+**18.** [Nano Banana can be prompt engineered for nuanced AI image generation](https://news.ycombinator.com/item?id=45917875) `📊11-19` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
 
-**19.** [🆕 AI World Clocks](https://news.ycombinator.com/item?id=45930151) `📊13` • 📺 Hacker News • 🕐 03时17分
+**19.** [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://news.ycombinator.com/item?id=45918638) `📊21-30` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
 
 **20.** [Don't turn your brain off](https://news.ycombinator.com/item?id=45926395) `📊15` • 📺 Hacker News • 🕐 00时28分
 
@@ -65,22 +65,9 @@
 
 **22.** [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://news.ycombinator.com/item?id=45927035) `📊17` • 📺 Hacker News • 🕐 00时28分
 
-**23.** [🆕 Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://news.ycombinator.com/item?id=45929863) `📊23` • 📺 Hacker News • 🕐 03时17分
+**23.** [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://news.ycombinator.com/item?id=45929863) `📊23` • 📺 Hacker News • 🕐 03时17分
 
 **24.** [武汉造全球首台AI胶囊内镜获广泛应用](https://www.toutiao.com/trending/7572001120726908978/) `📊29` • 📺 今日头条 • 🕐 00时28分
-
----
-
-## 🆕 本次新增热点新闻 (共 2 条)
-
-### 📺 Hacker News · 2条
-
----
-**1.** [AI World Clocks](https://news.ycombinator.com/item?id=45930151) `📊13`
-
-**2.** [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://news.ycombinator.com/item?id=45929863) `📊23`
-
----
 
 ---
 
