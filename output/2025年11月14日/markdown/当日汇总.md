@@ -7,75 +7,75 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 495 条 |
-| **热点新闻** | 36 条 |
-| **生成时间** | 11-14 07:20 |
+| **新闻总数** | 623 条 |
+| **热点新闻** | 43 条 |
+| **生成时间** | 11-14 09:41 |
 
 ---
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (36 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (43 条)
 
 [1/1]
 
 ---
 
-**1.** [对标ChatGPT！阿里“通义千问”全面转向，进军C端市场](https://wallstreetcn.com/articles/3759294) `🏆1-2` • 📺 华尔街见闻 • 🕐 00时26分~07时20分 • 🔁 8次
+**1.** [对标ChatGPT！阿里“通义千问”全面转向，进军C端市场](https://wallstreetcn.com/articles/3759294) `🏆1-2` • 📺 华尔街见闻 • 🕐 00时26分~09时41分 • 🔁 9次
 
-**2.** [用 ai 写了一个可在 vercel 一键部署的书签导航大家有什么建议吗](https://www.v2ex.com/t/1172667) `🏆1-3` • 📺 V2EX • 🕐 00时26分~07时20分 • 🔁 8次
+**2.** [用 ai 写了一个可在 vercel 一键部署的书签导航大家有什么建议吗](https://www.v2ex.com/t/1172667) `🏆1-3` • 📺 V2EX • 🕐 00时26分~09时41分 • 🔁 9次
 
-**3.** [为什么 LLM 生成的代码这么多逻辑错误/凭空编出来的 API，却几乎见不到语法错误？用了后处理还是代码是从 AST 转换回来的？](https://www.v2ex.com/t/1172660) `🏆2-4` • 📺 V2EX • 🕐 00时26分~07时20分 • 🔁 8次
+**3.** [为什么 LLM 生成的代码这么多逻辑错误/凭空编出来的 API，却几乎见不到语法错误？用了后处理还是代码是从 AST 转换回来的？](https://www.v2ex.com/t/1172660) `🏆2-4` • 📺 V2EX • 🕐 00时26分~09时41分 • 🔁 9次
 
-**4.** [腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体](https://wallstreetcn.com/articles/3759330) `⭐4-5` • 📺 华尔街见闻 • 🕐 00时26分~07时20分 • 🔁 8次
+**4.** [腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体](https://wallstreetcn.com/articles/3759330) `🏆3-5` • 📺 华尔街见闻 • 🕐 00时26分~09时41分 • 🔁 9次
 
-**5.** [macOS 26 Jetbrains IDE 在切换回应用时页面 UI 失去响应的解决办法](https://www.v2ex.com/t/1172671) `🏆1-2` • 📺 V2EX • 🕐 01时21分~07时20分 • 🔁 7次
+**5.** [macOS 26 Jetbrains IDE 在切换回应用时页面 UI 失去响应的解决办法](https://www.v2ex.com/t/1172671) `🏆1-2` • 📺 V2EX • 🕐 01时21分~09时41分 • 🔁 8次
 
-**6.** [AI造世界的时代来了](https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86) `⭐4-6` • 📺 bilibili 热搜 • 🕐 00时26分~07时20分 • 🔁 8次
+**6.** [AI造世界的时代来了](https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86) `⭐4-6` • 📺 bilibili 热搜 • 🕐 00时26分~09时41分 • 🔁 9次
 
-**7.** [Nano Banana can be prompt engineered for nuanced AI image generation](https://news.ycombinator.com/item?id=45917875) `🏆1` • 📺 Hacker News • 🕐 02时30分~07时20分 • 🔁 6次
+**7.** [Nano Banana can be prompt engineered for nuanced AI image generation](https://news.ycombinator.com/item?id=45917875) `🏆1` • 📺 Hacker News • 🕐 02时30分~09时41分 • 🔁 7次
 
-**8.** [华为 Mate 70 Air 成为首个通过 T/UWA 009.3-2-2023 技术标准的手机设备](https://www.ithome.com/0/897/317.htm) `🏆2-12` • 📺 IT之家 • 🕐 00时26分~07时20分 • 🔁 8次
+**8.** [Youcomic | Comic Community, Manga Community, AI anime Community](https://www.v2ex.com/t/1172655) `⭐5-7` • 📺 V2EX • 🕐 00时26分~09时41分 • 🔁 9次
 
-**9.** [产品规格限制：12G 版本华为 Mate 70 Pro / Air 手机无法支持运存升级](https://www.ithome.com/0/897/319.htm) `🏆2-9` • 📺 IT之家 • 🕐 01时21分~07时20分 • 🔁 7次
+**9.** [华为 Mate 70 Air 成为首个通过 T/UWA 009.3-2-2023 技术标准的手机设备](https://www.ithome.com/0/897/317.htm) `🏆2-12` • 📺 IT之家 • 🕐 00时26分~07时20分 • 🔁 8次
 
-**10.** [Youcomic | Comic Community, Manga Community, AI anime Community](https://www.v2ex.com/t/1172655) `⭐5-7` • 📺 V2EX • 🕐 00时26分~07时20分 • 🔁 8次
+**10.** [产品规格限制：12G 版本华为 Mate 70 Pro / Air 手机无法支持运存升级](https://www.ithome.com/0/897/319.htm) `🏆2-9` • 📺 IT之家 • 🕐 01时21分~07时20分 • 🔁 7次
 
 **11.** [摩尔线程大模型对齐研究获国际顶级学术会议认可：URPO 框架入选 AAAI 2026](https://www.ithome.com/0/897/315.htm) `🏆3-13` • 📺 IT之家 • 🕐 00时26分~07时20分 • 🔁 8次
 
-**12.** [腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻](https://wallstreetcn.com/articles/3759306) `📊7-10` • 📺 华尔街见闻 • 🕐 00时26分~07时20分 • 🔁 8次
+**12.** [阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点](https://www.cls.cn/detail/2200065) `📊7-9` • 📺 财联社热门 • 🕐 00时26分~09时41分 • 🔁 9次
 
-**13.** [阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点](https://www.cls.cn/detail/2200065) `📊8-9` • 📺 财联社热门 • 🕐 00时26分~07时20分 • 🔁 8次
+**13.** [腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻](https://wallstreetcn.com/articles/3759306) `📊7-10` • 📺 华尔街见闻 • 🕐 00时26分~09时41分 • 🔁 9次
 
-**14.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时26分~07时20分 • 🔁 8次
+**14.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时26分~09时41分 • 🔁 9次
 
-**15.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时26分~07时20分 • 🔁 8次
+**15.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时26分~09时41分 • 🔁 9次
 
-**16.** [对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%](https://m.thepaper.cn/newsDetail_forward_31957439) `📊14-18` • 📺 澎湃新闻 • 🕐 00时26分~07时20分 • 🔁 8次
+**16.** [对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%](https://m.thepaper.cn/newsDetail_forward_31957439) `📊14-18` • 📺 澎湃新闻 • 🕐 00时26分~09时41分 • 🔁 9次
 
-**17.** [上线了一个完全免费，无需登录，无限制的 AI 图片生成网站 - Ketchup AI](https://www.v2ex.com/t/1172611) `📊18-20` • 📺 V2EX • 🕐 00时26分~07时20分 • 🔁 8次
+**17.** [上线了一个完全免费，无需登录，无限制的 AI 图片生成网站 - Ketchup AI](https://www.v2ex.com/t/1172611) `📊18-20` • 📺 V2EX • 🕐 00时26分~09时41分 • 🔁 9次
 
-**18.** [百度旗下小度科技发布多模态 AI 助手“超能小度”，数千万台设备免费升级](https://www.ithome.com/0/897/299.htm) `📊18-28` • 📺 IT之家 • 🕐 00时26分~07时20分 • 🔁 8次
+**18.** [用 ai 写了一个脚本, V2EX 二手交易板块, 匹配到关键词就记录下来, 如 iPhone , 京东积分](https://www.v2ex.com/t/1172067) `📊20-22` • 📺 V2EX • 🕐 00时26分~09时41分 • 🔁 9次
 
-**19.** [用 ai 写了一个脚本, V2EX 二手交易板块, 匹配到关键词就记录下来, 如 iPhone , 京东积分](https://www.v2ex.com/t/1172067) `📊20-22` • 📺 V2EX • 🕐 00时26分~07时20分 • 🔁 8次
+**19.** [Qwen-Edit-2509-Multiple-Angles AI 转换照片视角的效果太惊艳了](https://www.v2ex.com/t/1172601) `📊22-24` • 📺 V2EX • 🕐 00时26分~09时41分 • 🔁 9次
 
-**20.** [《绝地求生》开发商 Krafton 宣布转型“AI 优先”后，为员工提供自愿离职选项](https://www.ithome.com/0/897/296.htm) `📊20-30` • 📺 IT之家 • 🕐 00时26分~07时20分 • 🔁 8次
+**20.** [百度旗下小度科技发布多模态 AI 助手“超能小度”，数千万台设备免费升级](https://www.ithome.com/0/897/299.htm) `📊18-28` • 📺 IT之家 • 🕐 00时26分~07时20分 • 🔁 8次
 
-**21.** [Qwen-Edit-2509-Multiple-Angles AI 转换照片视角的效果太惊艳了](https://www.v2ex.com/t/1172601) `📊22-24` • 📺 V2EX • 🕐 00时26分~07时20分 • 🔁 8次
+**21.** [《绝地求生》开发商 Krafton 宣布转型“AI 优先”后，为员工提供自愿离职选项](https://www.ithome.com/0/897/296.htm) `📊20-30` • 📺 IT之家 • 🕐 00时26分~07时20分 • 🔁 8次
 
 **22.** [华强北再发力：超雪团队成功实现苹果 iPhone Air 改实体 SIM 卡](https://www.ithome.com/0/897/293.htm) `📊22-26` • 📺 IT之家 • 🕐 00时26分~06时20分 • 🔁 7次
 
-**23.** [🆕 苹果更新 App 审核指南，严打擅自与第三方 AI 共享个人数据的应用](https://www.ithome.com/0/897/326.htm) `🏆2` • 📺 IT之家 • 🕐 07时20分
+**23.** [苹果更新 App 审核指南，严打擅自与第三方 AI 共享个人数据的应用](https://www.ithome.com/0/897/326.htm) `🏆2` • 📺 IT之家 • 🕐 07时20分
 
-**24.** [Britain's railway privatization was an abject failure](https://news.ycombinator.com/item?id=45914718) `🏆1-25` • 📺 Hacker News • 🕐 00时26分~03时17分 • 🔁 4次
+**24.** [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://news.ycombinator.com/item?id=45918638) `⭐5-25` • 📺 Hacker News • 🕐 04时24分~09时41分 • 🔁 5次
 
-**25.** [🆕 Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://news.ycombinator.com/item?id=45921334) `⭐4` • 📺 Hacker News • 🕐 07时20分
+**25.** [Britain's railway privatization was an abject failure](https://news.ycombinator.com/item?id=45914718) `🏆1-25` • 📺 Hacker News • 🕐 00时26分~03时17分 • 🔁 4次
 
-**26.** [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://news.ycombinator.com/item?id=45918638) `⭐5-15` • 📺 Hacker News • 🕐 04时24分~07时20分 • 🔁 4次
+**26.** [Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://news.ycombinator.com/item?id=45921334) `⭐4` • 📺 Hacker News • 🕐 07时20分
 
-**27.** [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://news.ycombinator.com/item?id=45916044) `⭐4-17` • 📺 Hacker News • 🕐 00时26分~01时21分 • 🔁 2次
+**27.** [SlopStop: Community-driven AI slop detection in Kagi Search](https://news.ycombinator.com/item?id=45919067) `📊8-18` • 📺 Hacker News • 🕐 04时24分~09时41分 • 🔁 5次
 
-**28.** [SlopStop: Community-driven AI slop detection in Kagi Search](https://news.ycombinator.com/item?id=45919067) `📊8-13` • 📺 Hacker News • 🕐 04时24分~07时20分 • 🔁 4次
+**28.** [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://news.ycombinator.com/item?id=45916044) `⭐4-17` • 📺 Hacker News • 🕐 00时26分~01时21分 • 🔁 2次
 
 **29.** [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://news.ycombinator.com/item?id=45916146) `📊13-17` • 📺 Hacker News • 🕐 00时26分~03时17分 • 🔁 4次
 
@@ -85,29 +85,58 @@
 
 **32.** [Guests ejected mid-stay from bankrupt hotel chain Sonder](https://news.ycombinator.com/item?id=45921011) `📊8-30` • 📺 Hacker News • 🕐 06时20分~07时20分 • 🔁 2次
 
-**33.** [Let AI do the hard parts of your holiday shopping](https://news.ycombinator.com/item?id=45917830) `📊12` • 📺 Hacker News • 🕐 02时30分
+**33.** [🆕 网信部门从严整治利用 AI 仿冒公众人物开展直播营销问题乱象](https://www.ithome.com/0/897/356.htm) `📊9` • 📺 IT之家 • 🕐 09时41分
 
-**34.** [Telli (Voice AI – YC F24) is hiring engineers in Berlin](https://news.ycombinator.com/item?id=45912744) `📊20` • 📺 Hacker News • 🕐 00时26分
+**34.** [🆕 How to fix subsystem request failed on channel 0](https://news.ycombinator.com/item?id=45840260) `📊9` • 📺 Hacker News • 🕐 09时41分
 
-**35.** [AI会如何改编游戏行业](https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A) `📊21` • 📺 bilibili 热搜 • 🕐 00时26分
+**35.** [🆕 华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！](https://www.cls.cn/detail/2200326) `📊12` • 📺 财联社热门 • 🕐 09时41分
 
-**36.** [Ask HN: Anyone else disillusioned with "AI experts" in their team?](https://news.ycombinator.com/item?id=45918355) `📊30` • 📺 Hacker News • 🕐 04时24分
+**36.** [Let AI do the hard parts of your holiday shopping](https://news.ycombinator.com/item?id=45917830) `📊12` • 📺 Hacker News • 🕐 02时30分
+
+**37.** [Telli (Voice AI – YC F24) is hiring engineers in Berlin](https://news.ycombinator.com/item?id=45912744) `📊20` • 📺 Hacker News • 🕐 00时26分
+
+**38.** [AI会如何改编游戏行业](https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A) `📊21` • 📺 bilibili 热搜 • 🕐 00时26分
+
+**39.** [🆕 迪士尼 CEO 鲍勃・艾格：希望人们用 AI 为 Disney+ 创作精品内容](https://www.ithome.com/0/897/341.htm) `📊21` • 📺 IT之家 • 🕐 09时41分
+
+**40.** [🆕 马斯克先下一城，美法官拒绝苹果和 OpenAI 要求、不会驳回 X 的诉讼](https://www.ithome.com/0/897/339.htm) `📊22` • 📺 IT之家 • 🕐 09时41分
+
+**41.** [🆕 Mozilla 进一步拥抱 AI，将为 Firefox 火狐浏览器设立独立“AI 窗口”](https://www.ithome.com/0/897/338.htm) `📊23` • 📺 IT之家 • 🕐 09时41分
+
+**42.** [🆕 苹果发布 AirPods Pro 2/3、AirPods 4 耳机新固件 8B25 和 8B21](https://www.ithome.com/0/897/332.htm) `📊28` • 📺 IT之家 • 🕐 09时41分
+
+**43.** [Ask HN: Anyone else disillusioned with "AI experts" in their team?](https://news.ycombinator.com/item?id=45918355) `📊30` • 📺 Hacker News • 🕐 04时24分
 
 ---
 
-## 🆕 本次新增热点新闻 (共 2 条)
+## 🆕 本次新增热点新闻 (共 7 条)
 
-### 📺 IT之家 · 1条
+### 📺 财联社热门 · 1条
 
 ---
-**1.** [苹果更新 App 审核指南，严打擅自与第三方 AI 共享个人数据的应用](https://www.ithome.com/0/897/326.htm) `🏆2`
+**1.** [华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！](https://www.cls.cn/detail/2200326) `📊12`
+
+---
+
+### 📺 IT之家 · 5条
+
+---
+**1.** [网信部门从严整治利用 AI 仿冒公众人物开展直播营销问题乱象](https://www.ithome.com/0/897/356.htm) `📊9`
+
+**2.** [迪士尼 CEO 鲍勃・艾格：希望人们用 AI 为 Disney+ 创作精品内容](https://www.ithome.com/0/897/341.htm) `📊21`
+
+**3.** [马斯克先下一城，美法官拒绝苹果和 OpenAI 要求、不会驳回 X 的诉讼](https://www.ithome.com/0/897/339.htm) `📊22`
+
+**4.** [Mozilla 进一步拥抱 AI，将为 Firefox 火狐浏览器设立独立“AI 窗口”](https://www.ithome.com/0/897/338.htm) `📊23`
+
+**5.** [苹果发布 AirPods Pro 2/3、AirPods 4 耳机新固件 8B25 和 8B21](https://www.ithome.com/0/897/332.htm) `📊28`
 
 ---
 
 ### 📺 Hacker News · 1条
 
 ---
-**1.** [Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://news.ycombinator.com/item?id=45921334) `⭐4`
+**1.** [How to fix subsystem request failed on channel 0](https://news.ycombinator.com/item?id=45840260) `📊9`
 
 ---
 
