@@ -7,35 +7,35 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 741 条 |
-| **热点新闻** | 35 条 |
-| **生成时间** | 11-15 11:08 |
+| **新闻总数** | 831 条 |
+| **热点新闻** | 38 条 |
+| **生成时间** | 11-15 12:23 |
 
 ---
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (35 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (38 条)
 
 [1/1]
 
 ---
 
-**1.** [告别查不到的生词和老旧例句：这本会生长的 AI 词典，让你的语言学习跟上时代！](https://www.v2ex.com/t/1172888) `🏆3-9` • 📺 V2EX • 🕐 00时28分~11时08分 • 🔁 10次
+**1.** [告别查不到的生词和老旧例句：这本会生长的 AI 词典，让你的语言学习跟上时代！](https://www.v2ex.com/t/1172888) `🏆3-10` • 📺 V2EX • 🕐 00时28分~12时23分 • 🔁 11次
 
-**2.** [豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首](https://wallstreetcn.com/articles/3759380) `🏆3-10` • 📺 华尔街见闻 • 🕐 02时30分~11时08分 • 🔁 8次
+**2.** [豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首](https://wallstreetcn.com/articles/3759380) `🏆3-10` • 📺 华尔街见闻 • 🕐 02时30分~12时23分 • 🔁 9次
 
 **3.** [AI 编程神器 Cursor 估值一年狂飙近 12 倍，谷歌、英伟达排队“送钱”](https://www.ithome.com/0/897/582.htm) `⭐4-25` • 📺 IT之家 • 🕐 00时28分~09时38分 • 🔁 9次
 
-**4.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~11时08分 • 🔁 10次
+**4.** [AI World Clocks](https://news.ycombinator.com/item?id=45930151) `🏆1-13` • 📺 Hacker News • 🕐 03时17分~12时23分 • 🔁 8次
 
-**5.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~11时08分 • 🔁 10次
+**5.** [Magit manuals are available online again](https://news.ycombinator.com/item?id=45926037) `⭐5-29` • 📺 Hacker News • 🕐 00时28分~12时23分 • 🔁 10次
 
-**6.** [独立开发， AI 编程处女作，效果很惊艳，效率提升明显](https://www.v2ex.com/t/1172772) `📊23-28` • 📺 V2EX • 🕐 00时28分~11时08分 • 🔁 10次
+**6.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~12时23分 • 🔁 11次
 
-**7.** [Magit manuals are available online again](https://news.ycombinator.com/item?id=45926037) `⭐5-26` • 📺 Hacker News • 🕐 00时28分~11时08分 • 🔁 9次
+**7.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~12时23分 • 🔁 11次
 
-**8.** [AI World Clocks](https://news.ycombinator.com/item?id=45930151) `🏆1-13` • 📺 Hacker News • 🕐 03时17分~11时08分 • 🔁 7次
+**8.** [独立开发， AI 编程处女作，效果很惊艳，效率提升明显](https://www.v2ex.com/t/1172772) `📊23-29` • 📺 V2EX • 🕐 00时28分~12时23分 • 🔁 11次
 
 **9.** [英特尔 CEO 陈立武称 AI 团队经历了“相当大变化”，将亲自掌舵 AI 与先进技术业务](https://www.ithome.com/0/897/577.htm) `📊7-28` • 📺 IT之家 • 🕐 00时28分~09时38分 • 🔁 9次
 
@@ -51,68 +51,64 @@
 
 **15.** [I think nobody wants AI in Firefox, Mozilla](https://news.ycombinator.com/item?id=45926779) `🏆1-27` • 📺 Hacker News • 🕐 00时28分~05时19分 • 🔁 6次
 
-**16.** [🆕 AI爆梗王?串子罗伯特炸翻全场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA) `🏆2` • 📺 贴吧 • 🕐 11时08分
+**16.** [AI爆梗王?串子罗伯特炸翻全场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA) `🏆2` • 📺 贴吧 • 🕐 11时08分~12时23分 • 🔁 2次
 
-**17.** [🆕 2052 年了，求推荐一个可本地部署的 ai 程序员 可学习自己“训练”的内容？](https://www.v2ex.com/t/1172947) `🏆2` • 📺 V2EX • 🕐 11时08分
+**17.** [2052 年了，求推荐一个可本地部署的 ai 程序员 可学习自己“训练”的内容？](https://www.v2ex.com/t/1172947) `🏆2-3` • 📺 V2EX • 🕐 11时08分~12时23分 • 🔁 2次
 
-**18.** [All Praise to the Lunch Ladies](https://news.ycombinator.com/item?id=45931403) `🏆3-7` • 📺 Hacker News • 🕐 05时19分~07时19分 • 🔁 3次
+**18.** [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://news.ycombinator.com/item?id=45933497) `⭐4-8` • 📺 Hacker News • 🕐 09时38分~12时23分 • 🔁 3次
 
-**19.** [RetailReady (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45928822) `📊6-14` • 📺 Hacker News • 🕐 01时18分~05时19分 • 🔁 5次
+**19.** [All Praise to the Lunch Ladies](https://news.ycombinator.com/item?id=45931403) `🏆3-7` • 📺 Hacker News • 🕐 05时19分~07时19分 • 🔁 3次
 
-**20.** [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://news.ycombinator.com/item?id=45927210) `📊7-26` • 📺 Hacker News • 🕐 01时18分~05时19分 • 🔁 5次
+**20.** [万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？](https://wallstreetcn.com/articles/3759419) `⭐5-6` • 📺 华尔街见闻 • 🕐 09时38分~12时23分 • 🔁 3次
 
-**21.** [万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？](https://wallstreetcn.com/articles/3759419) `⭐5-6` • 📺 华尔街见闻 • 🕐 09时38分~11时08分 • 🔁 2次
+**21.** [🆕 Has Google solved two of AI’s oldest problems?](https://news.ycombinator.com/item?id=45887262) `⭐4` • 📺 Hacker News • 🕐 12时23分
 
-**22.** [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://news.ycombinator.com/item?id=45933497) `⭐4-8` • 📺 Hacker News • 🕐 09时38分~11时08分 • 🔁 2次
+**22.** [RetailReady (YC W24) Is Hiring](https://news.ycombinator.com/item?id=45928822) `📊6-14` • 📺 Hacker News • 🕐 01时18分~05时19分 • 🔁 5次
 
-**23.** [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://news.ycombinator.com/item?id=45927435) `📊8-24` • 📺 Hacker News • 🕐 00时28分~03时17分 • 🔁 4次
+**23.** [Linear Algebra Explains Why Some Words Are Effectively Untranslatable](https://news.ycombinator.com/item?id=45927210) `📊7-26` • 📺 Hacker News • 🕐 01时18分~05时19分 • 🔁 5次
 
-**24.** [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://news.ycombinator.com/item?id=45932131) `📊9-18` • 📺 Hacker News • 🕐 06时20分~11时08分 • 🔁 4次
+**24.** [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://news.ycombinator.com/item?id=45932131) `📊9-20` • 📺 Hacker News • 🕐 06时20分~12时23分 • 🔁 5次
 
-**25.** [Nano Banana can be prompt engineered for nuanced AI image generation](https://news.ycombinator.com/item?id=45917875) `📊11-19` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
+**25.** [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://news.ycombinator.com/item?id=45927435) `📊8-24` • 📺 Hacker News • 🕐 00时28分~03时17分 • 🔁 4次
 
-**26.** [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://news.ycombinator.com/item?id=45918638) `📊21-30` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
+**26.** [All praise to the lunch ladies](https://news.ycombinator.com/item?id=45931403) `📊9-12` • 📺 Hacker News • 🕐 09时38分~12时23分 • 🔁 3次
 
-**27.** [CounterPoint 称苹果 iPhone Air 成“鲶鱼”，倒逼华为、OPPO、vivo 等中国手机企业紧跟 eSIM](https://www.ithome.com/0/897/600.htm) `📊7-21` • 📺 IT之家 • 🕐 09时38分~11时08分 • 🔁 2次
+**27.** [Nano Banana can be prompt engineered for nuanced AI image generation](https://news.ycombinator.com/item?id=45917875) `📊11-19` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
 
-**28.** [All praise to the lunch ladies](https://news.ycombinator.com/item?id=45931403) `📊9-10` • 📺 Hacker News • 🕐 09时38分~11时08分 • 🔁 2次
+**28.** [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://news.ycombinator.com/item?id=45918638) `📊21-30` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
 
-**29.** [Linear algebra explains why some words are effectively untranslatable](https://news.ycombinator.com/item?id=45927210) `📊25-27` • 📺 Hacker News • 🕐 09时38分~11时08分 • 🔁 2次
+**29.** [Linear algebra explains why some words are effectively untranslatable](https://news.ycombinator.com/item?id=45927210) `📊25-28` • 📺 Hacker News • 🕐 09时38分~12时23分 • 🔁 3次
 
-**30.** [Don't turn your brain off](https://news.ycombinator.com/item?id=45926395) `📊15` • 📺 Hacker News • 🕐 00时28分
+**30.** [CounterPoint 称苹果 iPhone Air 成“鲶鱼”，倒逼华为、OPPO、vivo 等中国手机企业紧跟 eSIM](https://www.ithome.com/0/897/600.htm) `📊7-21` • 📺 IT之家 • 🕐 09时38分~11时08分 • 🔁 2次
 
-**31.** [Norway's Wealth Tax Unchains a Capital Exodus](https://news.ycombinator.com/item?id=45929304) `📊15` • 📺 Hacker News • 🕐 02时30分
+**31.** [Don't turn your brain off](https://news.ycombinator.com/item?id=45926395) `📊15` • 📺 Hacker News • 🕐 00时28分
 
-**32.** [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://news.ycombinator.com/item?id=45927035) `📊17` • 📺 Hacker News • 🕐 00时28分
+**32.** [Norway's Wealth Tax Unchains a Capital Exodus](https://news.ycombinator.com/item?id=45929304) `📊15` • 📺 Hacker News • 🕐 02时30分
 
-**33.** [🆕 北京 6G 实验室十大进展首次集中发布，小米端到端 AI 无线技术原型验证系统在列](https://www.ithome.com/0/897/601.htm) `📊20` • 📺 IT之家 • 🕐 11时08分
+**33.** [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://news.ycombinator.com/item?id=45927035) `📊17` • 📺 Hacker News • 🕐 00时28分
 
-**34.** [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://news.ycombinator.com/item?id=45929863) `📊23` • 📺 Hacker News • 🕐 03时17分
+**34.** [🆕 AI note-taking startup Fireflies was really two guys typing notes by hand](https://news.ycombinator.com/item?id=45934447) `📊18` • 📺 Hacker News • 🕐 12时23分
 
-**35.** [武汉造全球首台AI胶囊内镜获广泛应用](https://www.toutiao.com/trending/7572001120726908978/) `📊29` • 📺 今日头条 • 🕐 00时28分
+**35.** [北京 6G 实验室十大进展首次集中发布，小米端到端 AI 无线技术原型验证系统在列](https://www.ithome.com/0/897/601.htm) `📊20` • 📺 IT之家 • 🕐 11时08分
+
+**36.** [Secret Boat Strike Memo Justifies Kills by Claiming Targeting Drugs, Not People](https://news.ycombinator.com/item?id=45929863) `📊23` • 📺 Hacker News • 🕐 03时17分
+
+**37.** [武汉造全球首台AI胶囊内镜获广泛应用](https://www.toutiao.com/trending/7572001120726908978/) `📊29` • 📺 今日头条 • 🕐 00时28分
+
+**38.** [🆕 I built a modular Java game engine without a GUI, designed to be AI-native](https://news.ycombinator.com/item?id=45830718) `📊30` • 📺 Hacker News • 🕐 12时23分
 
 ---
 
 ## 🆕 本次新增热点新闻 (共 3 条)
 
-### 📺 贴吧 · 1条
+### 📺 Hacker News · 3条
 
 ---
-**1.** [AI爆梗王?串子罗伯特炸翻全场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA) `🏆2`
+**1.** [Has Google solved two of AI’s oldest problems?](https://news.ycombinator.com/item?id=45887262) `⭐4`
 
----
+**2.** [AI note-taking startup Fireflies was really two guys typing notes by hand](https://news.ycombinator.com/item?id=45934447) `📊18`
 
-### 📺 V2EX · 1条
-
----
-**1.** [2052 年了，求推荐一个可本地部署的 ai 程序员 可学习自己“训练”的内容？](https://www.v2ex.com/t/1172947) `🏆2`
-
----
-
-### 📺 IT之家 · 1条
-
----
-**1.** [北京 6G 实验室十大进展首次集中发布，小米端到端 AI 无线技术原型验证系统在列](https://www.ithome.com/0/897/601.htm) `📊20`
+**3.** [I built a modular Java game engine without a GUI, designed to be AI-native](https://news.ycombinator.com/item?id=45830718) `📊30`
 
 ---
 
