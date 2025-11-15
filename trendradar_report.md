@@ -7,57 +7,74 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 363 条 |
-| **热点新闻** | 19 条 |
-| **生成时间** | 11-16 00:23 |
+| **新闻总数** | 393 条 |
+| **热点新闻** | 21 条 |
+| **生成时间** | 11-16 01:15 |
 
 ---
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (19 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (21 条)
 
 [1/1]
 
 ---
 
-**1.** [独立开发者分享：用闲置 GPU 做了个 AI UGC 视频生成工具（含简单技术细节）](https://www.v2ex.com/t/1172987) `⭐5` • 📺 V2EX • 🕐 00时23分
+**1.** [独立开发者分享：用闲置 GPU 做了个 AI UGC 视频生成工具（含简单技术细节）](https://www.v2ex.com/t/1172987) `⭐5` • 📺 V2EX • 🕐 00时23分~01时15分 • 🔁 2次
 
-**2.** [AI World Clocks](https://news.ycombinator.com/item?id=45930151) `⭐5` • 📺 Hacker News • 🕐 00时23分
+**2.** [AI World Clocks](https://news.ycombinator.com/item?id=45930151) `⭐5-7` • 📺 Hacker News • 🕐 00时23分~01时15分 • 🔁 2次
 
-**3.** [AI 驱动的泰迪熊竟能教儿童点燃火柴，制造商 FoloToy 紧急宣布停售](https://www.ithome.com/0/897/726.htm) `📊6` • 📺 IT之家 • 🕐 00时23分
+**3.** [AI 驱动的泰迪熊竟能教儿童点燃火柴，制造商 FoloToy 紧急宣布停售](https://www.ithome.com/0/897/726.htm) `📊6` • 📺 IT之家 • 🕐 00时23分~01时15分 • 🔁 2次
 
-**4.** [靠支付漏洞获得的印区 ChatGPT go 现在被取消了](https://www.v2ex.com/t/1172981) `📊7` • 📺 V2EX • 🕐 00时23分
+**4.** [靠支付漏洞获得的印区 ChatGPT go 现在被取消了](https://www.v2ex.com/t/1172981) `📊7` • 📺 V2EX • 🕐 00时23分~01时15分 • 🔁 2次
 
-**5.** [开源欧拉 openEuler 24.03 LTS SP3 首个超节点的操作系统发布，华为宣布将贡献关键 AI 技术](https://www.ithome.com/0/897/722.htm) `📊10` • 📺 IT之家 • 🕐 00时23分
+**5.** [开源欧拉 openEuler 24.03 LTS SP3 首个超节点的操作系统发布，华为宣布将贡献关键 AI 技术](https://www.ithome.com/0/897/722.htm) `📊10` • 📺 IT之家 • 🕐 00时23分~01时15分 • 🔁 2次
 
-**6.** [Streaming AI Agent Desktops with Gaming Protocols](https://news.ycombinator.com/item?id=45825121) `📊10` • 📺 Hacker News • 🕐 00时23分
+**6.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时23分~01时15分 • 🔁 2次
 
-**7.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时23分
+**7.** [Strap Rail](https://news.ycombinator.com/item?id=45839834) `📊11-16` • 📺 Hacker News • 🕐 00时23分~01时15分 • 🔁 2次
 
-**8.** [2052 年了，求推荐一个可本地部署的 ai 程序员 可学习自己“训练”的内容？](https://www.v2ex.com/t/1172947) `📊12` • 📺 V2EX • 🕐 00时23分
+**8.** [2052 年了，求推荐一个可本地部署的 ai 程序员 可学习自己“训练”的内容？](https://www.v2ex.com/t/1172947) `📊12` • 📺 V2EX • 🕐 00时23分~01时15分 • 🔁 2次
 
-**9.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时23分
+**9.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时23分~01时15分 • 🔁 2次
 
-**10.** [AI爆梗王?串子罗伯特炸翻全场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA) `📊13` • 📺 贴吧 • 🕐 00时23分
+**10.** [AI爆梗王?串子罗伯特炸翻全场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA) `📊13` • 📺 贴吧 • 🕐 00时23分~01时15分 • 🔁 2次
 
-**11.** [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://news.ycombinator.com/item?id=45936837) `📊13` • 📺 Hacker News • 🕐 00时23分
+**11.** [FURIA战胜paiN晋级BLAST决赛](https://search.bilibili.com/all?keyword=FURIA%20paiN) `📊17-20` • 📺 bilibili 热搜 • 🕐 00时23分~01时15分 • 🔁 2次
 
-**12.** [Strap Rail](https://news.ycombinator.com/item?id=45839834) `📊16` • 📺 Hacker News • 🕐 00时23分
+**12.** [告别查不到的生词和老旧例句：这本会生长的 AI 词典，让你的语言学习跟上时代！](https://www.v2ex.com/t/1172888) `📊19` • 📺 V2EX • 🕐 00时23分~01时15分 • 🔁 2次
 
-**13.** [FURIA战胜paiN晋级BLAST决赛](https://search.bilibili.com/all?keyword=FURIA%20paiN) `📊17` • 📺 bilibili 热搜 • 🕐 00时23分
+**13.** [“全民唱作人”时代来临？三首 AI 生成歌曲登顶 Spotify 和公告牌排行榜](https://www.ithome.com/0/897/711.htm) `📊20` • 📺 IT之家 • 🕐 00时23分~01时15分 • 🔁 2次
 
-**14.** [告别查不到的生词和老旧例句：这本会生长的 AI 词典，让你的语言学习跟上时代！](https://www.v2ex.com/t/1172888) `📊19` • 📺 V2EX • 🕐 00时23分
+**14.** [OpenAI 创始工程师卡帕西力挺自动驾驶技术：将导致停车场逐渐消失](https://www.ithome.com/0/897/708.htm) `📊23` • 📺 IT之家 • 🕐 00时23分~01时15分 • 🔁 2次
 
-**15.** [“全民唱作人”时代来临？三首 AI 生成歌曲登顶 Spotify 和公告牌排行榜](https://www.ithome.com/0/897/711.htm) `📊20` • 📺 IT之家 • 🕐 00时23分
+**15.** [All praise to the lunch ladies](https://news.ycombinator.com/item?id=45931403) `📊25-26` • 📺 Hacker News • 🕐 00时23分~01时15分 • 🔁 2次
 
-**16.** [OpenAI 创始工程师卡帕西力挺自动驾驶技术：将导致停车场逐渐消失](https://www.ithome.com/0/897/708.htm) `📊23` • 📺 IT之家 • 🕐 00时23分
+**16.** [《使命召唤：黑色行动 7》被曝大量使用 AI 生图，动视官方“不否认”](https://www.ithome.com/0/897/701.htm) `📊29` • 📺 IT之家 • 🕐 00时23分~01时15分 • 🔁 2次
 
-**17.** [All praise to the lunch ladies](https://news.ycombinator.com/item?id=45931403) `📊25` • 📺 Hacker News • 🕐 00时23分
+**17.** [🆕 Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://news.ycombinator.com/item?id=45938785) `📊6` • 📺 Hacker News • 🕐 01时15分
 
-**18.** [《使命召唤：黑色行动 7》被曝大量使用 AI 生图，动视官方“不否认”](https://www.ithome.com/0/897/701.htm) `📊29` • 📺 IT之家 • 🕐 00时23分
+**18.** [Streaming AI Agent Desktops with Gaming Protocols](https://news.ycombinator.com/item?id=45825121) `📊10` • 📺 Hacker News • 🕐 00时23分
 
-**19.** [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://news.ycombinator.com/item?id=45933497) `📊29` • 📺 Hacker News • 🕐 00时23分
+**19.** [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://news.ycombinator.com/item?id=45936837) `📊13` • 📺 Hacker News • 🕐 00时23分
+
+**20.** [🆕 Streaming AI agent desktops with gaming protocols](https://news.ycombinator.com/item?id=45825121) `📊13` • 📺 Hacker News • 🕐 01时15分
+
+**21.** [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://news.ycombinator.com/item?id=45933497) `📊29` • 📺 Hacker News • 🕐 00时23分
+
+---
+
+## 🆕 本次新增热点新闻 (共 2 条)
+
+### 📺 Hacker News · 2条
+
+---
+**1.** [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://news.ycombinator.com/item?id=45938785) `📊6`
+
+**2.** [Streaming AI agent desktops with gaming protocols](https://news.ycombinator.com/item?id=45825121) `📊13`
+
+---
 
 ---
 
