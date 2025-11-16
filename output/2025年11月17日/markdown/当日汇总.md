@@ -7,9 +7,9 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 459 条 |
+| **新闻总数** | 472 条 |
 | **热点新闻** | 33 条 |
-| **生成时间** | 11-17 05:17 |
+| **生成时间** | 11-17 06:18 |
 
 ---
 
@@ -21,49 +21,49 @@
 
 ---
 
-**1.** [周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术](https://www.cls.cn/detail/2201789) `🏆1` • 📺 财联社热门 • 🕐 00时23分~05时17分 • 🔁 6次
+**1.** [周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术](https://www.cls.cn/detail/2201789) `🏆1` • 📺 财联社热门 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**2.** [国外免费 AI 羊毛可以薅。claude code， codex 等接口，国外第三方平台 megallm.io](https://www.v2ex.com/t/1173133) `🏆1-2` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**2.** [国外免费 AI 羊毛可以薅。claude code， codex 等接口，国外第三方平台 megallm.io](https://www.v2ex.com/t/1173133) `🏆1-2` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**3.** [垃圾刷多了 AI 也会变蠢！“年度最令人不安的论文”](https://www.ithome.com/0/897/876.htm) `⭐4` • 📺 IT之家 • 🕐 00时23分~05时17分 • 🔁 6次
+**3.** [垃圾刷多了 AI 也会变蠢！“年度最令人不安的论文”](https://www.ithome.com/0/897/876.htm) `⭐4` • 📺 IT之家 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**4.** [AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？](https://www.cls.cn/detail/2201554) `⭐5` • 📺 财联社热门 • 🕐 00时23分~05时17分 • 🔁 6次
+**4.** [AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？](https://www.cls.cn/detail/2201554) `⭐5` • 📺 财联社热门 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**5.** [做了个广告投放的 ai agent。](https://www.v2ex.com/t/1173142) `🏆1` • 📺 V2EX • 🕐 02时27分~05时17分 • 🔁 4次
+**5.** [做了个广告投放的 ai agent。](https://www.v2ex.com/t/1173142) `🏆1` • 📺 V2EX • 🕐 02时27分~06时18分 • 🔁 5次
 
-**6.** [AirPods libreated from Apple's ecosystem](https://news.ycombinator.com/item?id=45941596) `⭐4-28` • 📺 Hacker News • 🕐 00时23分~05时17分 • 🔁 6次
+**6.** [AirPods libreated from Apple's ecosystem](https://news.ycombinator.com/item?id=45941596) `⭐4-30` • 📺 Hacker News • 🕐 00时23分~06时18分 • 🔁 7次
 
-**7.** [分享一个基于 SQL 编译器的 LLM 应用](https://www.v2ex.com/t/1173103) `📊10-11` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**7.** [分享一个基于 SQL 编译器的 LLM 应用](https://www.v2ex.com/t/1173103) `📊10-11` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**8.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时23分~05时17分 • 🔁 6次
+**8.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时23分~06时18分 • 🔁 7次
 
-**9.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时23分~05时17分 • 🔁 6次
+**9.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时23分~06时18分 • 🔁 7次
 
-**10.** [鬼灭之刃 AI 合照、鬼灭之刃 AI 票根生成这个太帅了！ [惊艳]](https://www.v2ex.com/t/1173086) `📊13-14` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**10.** [鬼灭之刃 AI 合照、鬼灭之刃 AI 票根生成这个太帅了！ [惊艳]](https://www.v2ex.com/t/1173086) `📊13-14` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**11.** [Vintage Large Language Models](https://news.ycombinator.com/item?id=45944906) `📊13-25` • 📺 Hacker News • 🕐 00时23分~05时17分 • 🔁 6次
+**11.** [Vintage Large Language Models](https://news.ycombinator.com/item?id=45944906) `📊13-27` • 📺 Hacker News • 🕐 00时23分~06时18分 • 🔁 7次
 
-**12.** [求一个权威的多角度的 ai 能力测评天梯排行榜](https://www.v2ex.com/t/1173084) `📊14-15` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**12.** [求一个权威的多角度的 ai 能力测评天梯排行榜](https://www.v2ex.com/t/1173084) `📊14-15` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**13.** [育碧就《纪元 117：罗马和平》误用 AI 生成图片致歉，承诺将替换](https://www.ithome.com/0/897/866.htm) `📊14` • 📺 IT之家 • 🕐 00时23分~05时17分 • 🔁 6次
+**13.** [育碧就《纪元 117：罗马和平》误用 AI 生成图片致歉，承诺将替换](https://www.ithome.com/0/897/866.htm) `📊14` • 📺 IT之家 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**14.** [“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象](https://m.thepaper.cn/newsDetail_forward_31979142) `📊15-17` • 📺 澎湃新闻 • 🕐 00时23分~05时17分 • 🔁 6次
+**14.** [“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象](https://m.thepaper.cn/newsDetail_forward_31979142) `📊15-17` • 📺 澎湃新闻 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**15.** [各位大佬都用什么 AI 工具辅助写代码？](https://www.v2ex.com/t/1173083) `📊15-16` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**15.** [各位大佬都用什么 AI 工具辅助写代码？](https://www.v2ex.com/t/1173083) `📊15-16` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**16.** [诸位目前都是用的哪家的 LLM api](https://www.v2ex.com/t/1173065) `📊19-20` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**16.** [诸位目前都是用的哪家的 LLM api](https://www.v2ex.com/t/1173065) `📊19-20` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**17.** [限时焕新价 10.48 万元起、纯电 / 增程双动力，广汽埃安 AION i60 上市](https://www.ithome.com/0/897/860.htm) `📊19` • 📺 IT之家 • 🕐 00时23分~05时17分 • 🔁 6次
+**17.** [限时焕新价 10.48 万元起、纯电 / 增程双动力，广汽埃安 AION i60 上市](https://www.ithome.com/0/897/860.htm) `📊19` • 📺 IT之家 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**18.** [WGCLOUD 监控系统 这次的新版本增加了 AI-LLM 模块](https://www.v2ex.com/t/1173054) `📊21-22` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**18.** [个人开发的 Ai 生图 小程序终于盈利了](https://www.v2ex.com/t/1173050) `📊22-23` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**19.** [个人开发的 Ai 生图 小程序终于盈利了](https://www.v2ex.com/t/1173050) `📊22-23` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**19.** [AI爆梗王?串子罗伯特炸翻全场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA) `📊24-25` • 📺 贴吧 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**20.** [AI爆梗王?串子罗伯特炸翻全场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA) `📊24-25` • 📺 贴吧 • 🕐 00时23分~05时17分 • 🔁 6次
+**20.** [如果有且仅限一个 ide ai 会员作为备胎，应该选哪个？](https://www.v2ex.com/t/1173028) `📊27-28` • 📺 V2EX • 🕐 00时23分~06时18分 • 🔁 7次
 
-**21.** [如果有且仅限一个 ide ai 会员作为备胎，应该选哪个？](https://www.v2ex.com/t/1173028) `📊27-28` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
+**21.** [超 400 家美上市企业警示 AI 风险：不用怕落后，用了怕翻车](https://www.ithome.com/0/897/846.htm) `📊30` • 📺 IT之家 • 🕐 00时23分~06时18分 • 🔁 7次
 
-**22.** [超 400 家美上市企业警示 AI 风险：不用怕落后，用了怕翻车](https://www.ithome.com/0/897/846.htm) `📊30` • 📺 IT之家 • 🕐 00时23分~05时17分 • 🔁 6次
+**22.** [WGCLOUD 监控系统 这次的新版本增加了 AI-LLM 模块](https://www.v2ex.com/t/1173054) `📊21-22` • 📺 V2EX • 🕐 00时23分~05时17分 • 🔁 6次
 
 **23.** [Only three kinds of AI products work](https://news.ycombinator.com/item?id=45946498) `🏆2` • 📺 Hacker News • 🕐 02时27分
 
@@ -71,13 +71,13 @@
 
 **25.** [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://news.ycombinator.com/item?id=45945200) `📊12-25` • 📺 Hacker News • 🕐 00时23分~04时21分 • 🔁 5次
 
-**26.** [Waiting for SQL:202y: Group by All](https://news.ycombinator.com/item?id=45885410) `📊14-22` • 📺 Hacker News • 🕐 03时16分~05时17分 • 🔁 3次
+**26.** [Waiting for SQL:202y: Group by All](https://news.ycombinator.com/item?id=45885410) `📊14-22` • 📺 Hacker News • 🕐 03时16分~06时18分 • 🔁 4次
 
-**27.** [Three kinds of AI products work](https://news.ycombinator.com/item?id=45946498) `📊16-29` • 📺 Hacker News • 🕐 03时16分~05时17分 • 🔁 3次
+**27.** [如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？](https://www.zhihu.com/question/1971154128169301668) `📊14-15` • 📺 知乎 • 🕐 04时21分~06时18分 • 🔁 3次
 
-**28.** [AI is killing privacy. We can't let that happen](https://news.ycombinator.com/item?id=45947434) `📊6-12` • 📺 Hacker News • 🕐 03时16分~04时21分 • 🔁 2次
+**28.** [Three kinds of AI products work](https://news.ycombinator.com/item?id=45946498) `📊16-29` • 📺 Hacker News • 🕐 03时16分~05时17分 • 🔁 3次
 
-**29.** [如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？](https://www.zhihu.com/question/1971154128169301668) `📊14-15` • 📺 知乎 • 🕐 04时21分~05时17分 • 🔁 2次
+**29.** [AI is killing privacy. We can't let that happen](https://news.ycombinator.com/item?id=45947434) `📊6-12` • 📺 Hacker News • 🕐 03时16分~04时21分 • 🔁 2次
 
 **30.** [A twelve-year-old on the failed promise of educational technology](https://news.ycombinator.com/item?id=45944941) `📊14-21` • 📺 Hacker News • 🕐 00时23分~01时16分 • 🔁 2次
 
