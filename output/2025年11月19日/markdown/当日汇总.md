@@ -7,67 +7,88 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 363 条 |
-| **热点新闻** | 24 条 |
-| **生成时间** | 11-19 00:28 |
+| **新闻总数** | 393 条 |
+| **热点新闻** | 27 条 |
+| **生成时间** | 11-19 01:19 |
 
 ---
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (24 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (27 条)
 
 [1/1]
 
 ---
 
-**1.** [一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了](https://www.cls.cn/detail/2203967) `🏆1` • 📺 财联社热门 • 🕐 00时28分
+**1.** [一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了](https://www.cls.cn/detail/2203967) `🏆1` • 📺 财联社热门 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**2.** [以软件补硬件：华为定档 11 月 21 日发布并开源创新 AI 容器技术 Flex:ai](https://www.ithome.com/0/898/415.htm) `🏆2` • 📺 IT之家 • 🕐 00时28分
+**2.** [新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃](https://m.thepaper.cn/newsDetail_forward_31984369) `🏆1-3` • 📺 澎湃新闻 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**3.** [Gemini 3 Pro Preview Live in AI Studio](https://news.ycombinator.com/item?id=45967211) `🏆2` • 📺 Hacker News • 🕐 00时28分
+**3.** [Gemini 3 Pro Preview Live in AI Studio](https://news.ycombinator.com/item?id=45967211) `🏆2` • 📺 Hacker News • 🕐 00时28分~01时19分 • 🔁 2次
 
-**4.** [新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃](https://m.thepaper.cn/newsDetail_forward_31984369) `🏆3` • 📺 澎湃新闻 • 🕐 00时28分
+**4.** [以软件补硬件：华为定档 11 月 21 日发布并开源创新 AI 容器技术 Flex:ai](https://www.ithome.com/0/898/415.htm) `🏆2-4` • 📺 IT之家 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**5.** [【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股](https://www.cls.cn/detail/2203937) `⭐4` • 📺 财联社热门 • 🕐 00时28分
+**5.** [你认为该图片是真实拍摄的还是由 AI 生成的？](https://www.zhihu.com/question/1971246965376389265) `🏆3-5` • 📺 知乎 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**6.** [你认为该图片是真实拍摄的还是由 AI 生成的？](https://www.zhihu.com/question/1971246965376389265) `⭐5` • 📺 知乎 • 🕐 00时28分
+**6.** [【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股](https://www.cls.cn/detail/2203937) `⭐4` • 📺 财联社热门 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**7.** [Gemini 3 Pro Preview 模型已上线谷歌 AI Studio](https://www.ithome.com/0/898/412.htm) `⭐5` • 📺 IT之家 • 🕐 00时28分
+**7.** [Gemini 3 Pro Preview 模型已上线谷歌 AI Studio](https://www.ithome.com/0/898/412.htm) `⭐5-7` • 📺 IT之家 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**8.** [美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点](https://www.cls.cn/detail/2204220) `📊6` • 📺 财联社热门 • 🕐 00时28分
+**8.** [Google Antigravity, a New Era in AI-Assisted Software Development](https://news.ycombinator.com/item?id=45968065) `⭐5-11` • 📺 Hacker News • 🕐 00时28分~01时19分 • 🔁 2次
 
-**9.** [【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃](https://www.cls.cn/detail/2203836) `📊9` • 📺 财联社热门 • 🕐 00时28分
+**9.** [美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点](https://www.cls.cn/detail/2204220) `📊6` • 📺 财联社热门 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**10.** [百度：文心大模型推出以来在 AI 领域累计投入超千亿元](https://www.ithome.com/0/898/408.htm) `📊9` • 📺 IT之家 • 🕐 00时28分
+**10.** [【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃](https://www.cls.cn/detail/2203836) `📊9` • 📺 财联社热门 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**11.** [白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”](https://wallstreetcn.com/articles/3759559) `📊10` • 📺 华尔街见闻 • 🕐 00时28分
+**11.** [百度：文心大模型推出以来在 AI 领域累计投入超千亿元](https://www.ithome.com/0/898/408.htm) `📊9-11` • 📺 IT之家 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**12.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分
+**12.** [白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”](https://wallstreetcn.com/articles/3759559) `📊10` • 📺 华尔街见闻 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**13.** [Google Antigravity, a New Era in AI-Assisted Software Development](https://news.ycombinator.com/item?id=45968065) `📊11` • 📺 Hacker News • 🕐 00时28分
+**13.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~01时19分 • 🔁 2次
 
-**14.** [谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损](https://www.cls.cn/detail/2204017) `📊12` • 📺 财联社热门 • 🕐 00时28分
+**14.** [谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损](https://www.cls.cn/detail/2204017) `📊12` • 📺 财联社热门 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**15.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分
+**15.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~01时19分 • 🔁 2次
 
-**16.** [ai 堆屎，恐怖如斯](https://www.v2ex.com/t/1173564) `📊16` • 📺 V2EX • 🕐 00时28分
+**16.** [ai 堆屎，恐怖如斯](https://www.v2ex.com/t/1173564) `📊16` • 📺 V2EX • 🕐 00时28分~01时19分 • 🔁 2次
 
-**17.** [AI 时代，提出好问题更重要还是知道真答案更重要？](https://www.zhihu.com/question/1966326160255344700) `📊19` • 📺 知乎 • 🕐 00时28分
+**17.** [壹号游侠 Super X 二合一平板开启预订：可选标准 / 水冷版，搭载锐龙 AI Max+ 395 处理器](https://www.ithome.com/0/898/398.htm) `📊20-22` • 📺 IT之家 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**18.** [壹号游侠 Super X 二合一平板开启预订：可选标准 / 水冷版，搭载锐龙 AI Max+ 395 处理器](https://www.ithome.com/0/898/398.htm) `📊20` • 📺 IT之家 • 🕐 00时28分
+**18.** [Plain Jane Remix编舞跳起来](https://www.douyin.com/hot/2310465) `📊23-24` • 📺 抖音 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**19.** [Plain Jane Remix编舞跳起来](https://www.douyin.com/hot/2310465) `📊23` • 📺 抖音 • 🕐 00时28分
+**19.** [[分享] 整理了一个 LangChain v1 的完整示例仓库，包含 RAG / LangGraph / Agent 等模块](https://www.v2ex.com/t/1173516) `📊23` • 📺 V2EX • 🕐 00时28分~01时19分 • 🔁 2次
 
-**20.** [[分享] 整理了一个 LangChain v1 的完整示例仓库，包含 RAG / LangGraph / Agent 等模块](https://www.v2ex.com/t/1173516) `📊23` • 📺 V2EX • 🕐 00时28分
+**20.** [Intuit 与 OpenAI 达成 1 亿美元合作，让 ChatGPT 算退税、管财务](https://www.ithome.com/0/898/394.htm) `📊23-25` • 📺 IT之家 • 🕐 00时28分~01时19分 • 🔁 2次
 
-**21.** [Intuit 与 OpenAI 达成 1 亿美元合作，让 ChatGPT 算退税、管财务](https://www.ithome.com/0/898/394.htm) `📊23` • 📺 IT之家 • 🕐 00时28分
+**21.** [我不会写生日贺卡，然后自己手画的又丑，我就用写一个网站，把原本上色和美化交给 ai。](https://www.v2ex.com/t/1173513) `📊26` • 📺 V2EX • 🕐 00时28分~01时19分 • 🔁 2次
 
-**22.** [我不会写生日贺卡，然后自己手画的又丑，我就用写一个网站，把原本上色和美化交给 ai。](https://www.v2ex.com/t/1173513) `📊26` • 📺 V2EX • 🕐 00时28分
+**22.** [你的 AI Coding 结束了, 别玩手机了!](https://www.v2ex.com/t/1173508) `📊27` • 📺 V2EX • 🕐 00时28分~01时19分 • 🔁 2次
 
-**23.** [你的 AI Coding 结束了, 别玩手机了!](https://www.v2ex.com/t/1173508) `📊27` • 📺 V2EX • 🕐 00时28分
+**23.** [有没有 AI 能实时总结我浏览器里播放的直播？](https://www.v2ex.com/t/1173503) `📊29` • 📺 V2EX • 🕐 00时28分~01时19分 • 🔁 2次
 
-**24.** [有没有 AI 能实时总结我浏览器里播放的直播？](https://www.v2ex.com/t/1173503) `📊29` • 📺 V2EX • 🕐 00时28分
+**24.** [🆕 Solving a Million-Step LLM Task with Zero Errors](https://news.ycombinator.com/item?id=45968362) `📊10` • 📺 Hacker News • 🕐 01时19分
+
+**25.** [🆕 Google Brings Gemini 3 AI Model to Search and AI Mode](https://news.ycombinator.com/item?id=45968091) `📊13` • 📺 Hacker News • 🕐 01时19分
+
+**26.** [🆕 Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://news.ycombinator.com/item?id=45968461) `📊14` • 📺 Hacker News • 🕐 01时19分
+
+**27.** [AI 时代，提出好问题更重要还是知道真答案更重要？](https://www.zhihu.com/question/1966326160255344700) `📊19` • 📺 知乎 • 🕐 00时28分
+
+---
+
+## 🆕 本次新增热点新闻 (共 3 条)
+
+### 📺 Hacker News · 3条
+
+---
+**1.** [Solving a Million-Step LLM Task with Zero Errors](https://news.ycombinator.com/item?id=45968362) `📊10`
+
+**2.** [Google Brings Gemini 3 AI Model to Search and AI Mode](https://news.ycombinator.com/item?id=45968091) `📊13`
+
+**3.** [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://news.ycombinator.com/item?id=45968461) `📊14`
+
+---
 
 ---
 
