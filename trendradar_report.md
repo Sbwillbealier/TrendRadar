@@ -7,9 +7,9 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 1060 条 |
+| **新闻总数** | 1119 条 |
 | **热点新闻** | 58 条 |
-| **生成时间** | 11-20 22:21 |
+| **生成时间** | 11-20 23:22 |
 
 ---
 
@@ -21,45 +21,45 @@
 
 ---
 
-**1.** [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://news.ycombinator.com/item?id=45980760) `🏆1-29` • 📺 Hacker News • 🕐 00时28分~22时21分 • 🔁 9次
+**1.** [英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出](https://wallstreetcn.com/articles/3759756) `⭐5` • 📺 华尔街见闻 • 🕐 17时22分~23时22分 • 🔁 7次
 
-**2.** [英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出](https://wallstreetcn.com/articles/3759756) `⭐5` • 📺 华尔街见闻 • 🕐 17时22分~22时21分 • 🔁 6次
+**2.** [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://news.ycombinator.com/item?id=45980760) `🏆1-29` • 📺 Hacker News • 🕐 00时28分~22时21分 • 🔁 9次
 
-**3.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~22时21分 • 🔁 9次
+**3.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~23时22分 • 🔁 10次
 
-**4.** [爆冲榜首!豆包反超AI老大哥登顶](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6) `📊12-26` • 📺 贴吧 • 🕐 00时28分~22时21分 • 🔁 9次
+**4.** [爆冲榜首!豆包反超AI老大哥登顶](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6) `📊12-28` • 📺 贴吧 • 🕐 00时28分~23时22分 • 🔁 10次
 
-**5.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~22时21分 • 🔁 9次
+**5.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~23时22分 • 🔁 10次
 
-**6.** [Gemini3是目前最强AI吗](https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97) `⭐4-12` • 📺 bilibili 热搜 • 🕐 00时28分~20时41分 • 🔁 7次
+**6.** [Europe is scaling back GDPR and relaxing AI laws](https://news.ycombinator.com/item?id=45980117) `⭐4-13` • 📺 Hacker News • 🕐 02时30分~23时22分 • 🔁 8次
 
-**7.** [Europe is scaling back GDPR and relaxing AI laws](https://news.ycombinator.com/item?id=45980117) `⭐4-11` • 📺 Hacker News • 🕐 02时30分~22时21分 • 🔁 7次
+**7.** [Gemini3是目前最强AI吗](https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97) `⭐4-12` • 📺 bilibili 热搜 • 🕐 00时28分~20时41分 • 🔁 7次
 
 **8.** [欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章](https://www.cls.cn/detail/2198644) `🏆1` • 📺 财联社热门 • 🕐 00时28分~02时30分 • 🔁 3次
 
 **9.** [AI 炒股可行吗？](https://www.v2ex.com/t/1173839) `🏆2` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
 
-**10.** [我用 AI 写的独立游戏上架了，欢迎大家来挑战](https://www.v2ex.com/t/1173831) `🏆3` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
+**10.** [每次看到有人对线的时候贴出 AI 的回复当论据我就觉得好笑😂](https://www.v2ex.com/t/1174027) `🏆2-14` • 📺 V2EX • 🕐 18时22分~23时22分 • 🔁 6次
 
-**11.** [Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”](https://wallstreetcn.com/articles/3759673) `⭐4` • 📺 华尔街见闻 • 🕐 00时28分~02时30分 • 🔁 3次
+**11.** [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://news.ycombinator.com/item?id=45991738) `🏆1-4` • 📺 Hacker News • 🕐 21时30分~23时22分 • 🔁 3次
 
-**12.** [纽约时报：美国 AI 研究仍依赖中国人才，否则硅谷公司将落后](https://www.ithome.com/0/898/711.htm) `⭐4-5` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
+**12.** [我用 AI 写的独立游戏上架了，欢迎大家来挑战](https://www.v2ex.com/t/1173831) `🏆3` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
 
-**13.** [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://news.ycombinator.com/item?id=45991738) `🏆1` • 📺 Hacker News • 🕐 21时30分~22时21分 • 🔁 2次
+**13.** [Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”](https://wallstreetcn.com/articles/3759673) `⭐4` • 📺 华尔街见闻 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**14.** [NVIDIA大涨是AI泡沫吗](https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97) `🏆2` • 📺 bilibili 热搜 • 🕐 20时41分~21时30分 • 🔁 2次
+**14.** [纽约时报：美国 AI 研究仍依赖中国人才，否则硅谷公司将落后](https://www.ithome.com/0/898/711.htm) `⭐4-5` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**15.** [每次看到有人对线的时候贴出 AI 的回复当论据我就觉得好笑😂](https://www.v2ex.com/t/1174027) `🏆2-14` • 📺 V2EX • 🕐 18时22分~22时21分 • 🔁 5次
+**15.** [UP主翻唱AI歌曲美猴亡](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1) `📊7-25` • 📺 bilibili 热搜 • 🕐 17时22分~23时22分 • 🔁 7次
 
-**16.** [英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破](https://www.cls.cn/detail/2205700) `🏆1` • 📺 财联社热门 • 🕐 17时22分
+**16.** [各大互联网公司使用 AI 编程情况调查](https://www.v2ex.com/t/1173977) `📊9-29` • 📺 V2EX • 🕐 17时22分~23时22分 • 🔁 7次
 
-**17.** [UP主翻唱AI歌曲美猴亡](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1) `📊7-25` • 📺 bilibili 热搜 • 🕐 17时22分~22时21分 • 🔁 6次
+**17.** [NVIDIA大涨是AI泡沫吗](https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97) `🏆2` • 📺 bilibili 热搜 • 🕐 20时41分~21时30分 • 🔁 2次
 
-**18.** [各大互联网公司使用 AI 编程情况调查](https://www.v2ex.com/t/1173977) `📊9-29` • 📺 V2EX • 🕐 17时22分~22时21分 • 🔁 6次
+**18.** [英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破](https://www.cls.cn/detail/2205700) `🏆1` • 📺 财联社热门 • 🕐 17时22分
 
-**19.** [🆕 马斯克的 AI 聊天机器人 Grok 发表否认“大屠杀”言论，遭法国调查](https://www.ithome.com/0/899/002.htm) `🏆2` • 📺 IT之家 • 🕐 22时21分
+**19.** [# [教程] Strapi v5 部署 Railway 避坑指南：告别 AggregateError](https://www.v2ex.com/t/1174010) `📊7-19` • 📺 V2EX • 🕐 18时22分~23时22分 • 🔁 6次
 
-**20.** [# [教程] Strapi v5 部署 Railway 避坑指南：告别 AggregateError](https://www.v2ex.com/t/1174010) `📊7-19` • 📺 V2EX • 🕐 18时22分~22时21分 • 🔁 5次
+**20.** [OpenAI 推出教育版 ChatGPT，2027 年 6 月前对美国 K - 12 教师免费](https://www.ithome.com/0/898/981.htm) `🏆3-26` • 📺 IT之家 • 🕐 20时41分~23时22分 • 🔁 4次
 
 **21.** [AI is a front for consolidation of resources and power](https://news.ycombinator.com/item?id=45983700) `📊9-14` • 📺 Hacker News • 🕐 17时22分~21时30分 • 🔁 5次
 
@@ -67,9 +67,9 @@
 
 **23.** [前不久刚吐槽完 Air,现在又来 Pro Max,好好好](https://www.v2ex.com/t/1173963) `📊13-30` • 📺 V2EX • 🕐 17时22分~21时30分 • 🔁 5次
 
-**24.** [OpenAI 推出教育版 ChatGPT，2027 年 6 月前对美国 K - 12 教师免费](https://www.ithome.com/0/898/981.htm) `🏆3-18` • 📺 IT之家 • 🕐 20时41分~22时21分 • 🔁 3次
+**24.** [大力推进美国AI发展，特朗普又有“新计划”！](https://www.cls.cn/detail/2205764) `⭐5-6` • 📺 财联社热门 • 🕐 17时22分~18时22分 • 🔁 2次
 
-**25.** [大力推进美国AI发展，特朗普又有“新计划”！](https://www.cls.cn/detail/2205764) `⭐5-6` • 📺 财联社热门 • 🕐 17时22分~18时22分 • 🔁 2次
+**25.** [马斯克的 AI 聊天机器人 Grok 发表否认“大屠杀”言论，遭法国调查](https://www.ithome.com/0/899/002.htm) `🏆2-10` • 📺 IT之家 • 🕐 22时21分~23时22分 • 🔁 2次
 
 **26.** [#!magic, details about the shebang/hash-bang mechanism on various Unix flavours](https://news.ycombinator.com/item?id=45989186) `📊12-15` • 📺 Hacker News • 🕐 17时22分~20时41分 • 🔁 4次
 
@@ -95,31 +95,31 @@
 
 **37.** [如何看待 AI 工具的 "AGENTS.md" 文件](https://www.v2ex.com/t/1173940) `📊18-29` • 📺 V2EX • 🕐 17时22分~19时18分 • 🔁 3次
 
-**38.** [快手：预计可灵 AI 今年全年收入约 1.4 亿美元，较预期翻倍](https://www.ithome.com/0/898/686.htm) `📊21-22` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
+**38.** [Wrapping my head around AI wrappers](https://news.ycombinator.com/item?id=45939148) `📊19-22` • 📺 Hacker News • 🕐 21时30分~23时22分 • 🔁 3次
 
-**39.** [AI 真的在抢人类饭碗？大公司扎堆将裁员“甩锅”AI](https://www.ithome.com/0/898/682.htm) `📊24-25` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
+**39.** [Details about the shebang/hash-bang mechanism on various Unix flavours (2001)](https://news.ycombinator.com/item?id=45989186) `📊20-27` • 📺 Hacker News • 🕐 21时30分~23时22分 • 🔁 3次
 
-**40.** [web 菜鸟级选手， 1 天时间做了个 ai 图片工具网站](https://www.v2ex.com/t/1173742) `📊28` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
+**40.** [快手：预计可灵 AI 今年全年收入约 1.4 亿美元，较预期翻倍](https://www.ithome.com/0/898/686.htm) `📊21-22` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**41.** [诺基亚公布全新战略：聚焦 AI 驱动的网络变革，整合为两大核心业务板块](https://www.ithome.com/0/898/674.htm) `📊29-30` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
+**41.** [AI 真的在抢人类饭碗？大公司扎堆将裁员“甩锅”AI](https://www.ithome.com/0/898/682.htm) `📊24-25` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**42.** [Thunderbird Adds Native Microsoft Exchange Email Support](https://news.ycombinator.com/item?id=45978423) `📊8-17` • 📺 Hacker News • 🕐 01时19分~02时30分 • 🔁 2次
+**42.** [web 菜鸟级选手， 1 天时间做了个 ai 图片工具网站](https://www.v2ex.com/t/1173742) `📊28` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
 
-**43.** [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://news.ycombinator.com/item?id=45981608) `📊12-20` • 📺 Hacker News • 🕐 01时19分~02时30分 • 🔁 2次
+**43.** [诺基亚公布全新战略：聚焦 AI 驱动的网络变革，整合为两大核心业务板块](https://www.ithome.com/0/898/674.htm) `📊29-30` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**44.** [极星 Polestar 将自 2026 年起为电动汽车集成谷歌 Gemini AI 语音助手](https://www.ithome.com/0/898/938.htm) `📊14-20` • 📺 IT之家 • 🕐 18时22分~19时18分 • 🔁 2次
+**44.** [Thunderbird Adds Native Microsoft Exchange Email Support](https://news.ycombinator.com/item?id=45978423) `📊8-17` • 📺 Hacker News • 🕐 01时19分~02时30分 • 🔁 2次
 
-**45.** [Wrapping my head around AI wrappers](https://news.ycombinator.com/item?id=45939148) `📊19-22` • 📺 Hacker News • 🕐 21时30分~22时21分 • 🔁 2次
+**45.** [Outdated Samsung handset linked to fatal emergency call failure in Australia](https://news.ycombinator.com/item?id=45981608) `📊12-20` • 📺 Hacker News • 🕐 01时19分~02时30分 • 🔁 2次
 
-**46.** [Details about the shebang/hash-bang mechanism on various Unix flavours (2001)](https://news.ycombinator.com/item?id=45989186) `📊20-24` • 📺 Hacker News • 🕐 21时30分~22时21分 • 🔁 2次
+**46.** [Students fight back over course taught by AI](https://news.ycombinator.com/item?id=45992304) `📊12-26` • 📺 Hacker News • 🕐 22时21分~23时22分 • 🔁 2次
 
-**47.** [I am just sooo sick of AI prediction content, let's kill it already](https://news.ycombinator.com/item?id=45982542) `📊7` • 📺 Hacker News • 🕐 02时30分
+**47.** [极星 Polestar 将自 2026 年起为电动汽车集成谷歌 Gemini AI 语音助手](https://www.ithome.com/0/898/938.htm) `📊14-20` • 📺 IT之家 • 🕐 18时22分~19时18分 • 🔁 2次
 
-**48.** [Larry Summers resigns from OpenAI board](https://news.ycombinator.com/item?id=45979190) `📊9` • 📺 Hacker News • 🕐 02时30分
+**48.** [I am just sooo sick of AI prediction content, let's kill it already](https://news.ycombinator.com/item?id=45982542) `📊7` • 📺 Hacker News • 🕐 02时30分
 
-**49.** [马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！](https://www.cls.cn/detail/2205685) `📊12` • 📺 财联社热门 • 🕐 17时22分
+**49.** [Larry Summers resigns from OpenAI board](https://news.ycombinator.com/item?id=45979190) `📊9` • 📺 Hacker News • 🕐 02时30分
 
-**50.** [🆕 Students fight back over course taught by AI](https://news.ycombinator.com/item?id=45992304) `📊12` • 📺 Hacker News • 🕐 22时21分
+**50.** [马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！](https://www.cls.cn/detail/2205685) `📊12` • 📺 财联社热门 • 🕐 17时22分
 
 **51.** [AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”](https://www.cls.cn/detail/2205150) `📊13` • 📺 财联社热门 • 🕐 02时30分
 
@@ -136,24 +136,6 @@
 **57.** [Border Patrol is monitoring drivers, detaining those with 'suspicious' patterns](https://news.ycombinator.com/item?id=45991257) `📊27` • 📺 Hacker News • 🕐 20时41分
 
 **58.** [LLMs are bullshitters. But that doesn't mean they're not useful](https://news.ycombinator.com/item?id=45982128) `📊30` • 📺 Hacker News • 🕐 02时30分
-
----
-
-## 🆕 本次新增热点新闻 (共 2 条)
-
-### 📺 IT之家 · 1条
-
----
-**1.** [马斯克的 AI 聊天机器人 Grok 发表否认“大屠杀”言论，遭法国调查](https://www.ithome.com/0/899/002.htm) `🏆2`
-
----
-
-### 📺 Hacker News · 1条
-
----
-**1.** [Students fight back over course taught by AI](https://news.ycombinator.com/item?id=45992304) `📊12`
-
----
 
 ---
 
