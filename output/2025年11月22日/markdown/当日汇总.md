@@ -7,99 +7,92 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 395 条 |
-| **热点新闻** | 31 条 |
-| **生成时间** | 11-22 01:18 |
+| **新闻总数** | 415 条 |
+| **热点新闻** | 32 条 |
+| **生成时间** | 11-22 02:27 |
 
 ---
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (31 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (32 条)
 
 [1/1]
 
 ---
 
-**1.** [英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”](https://wallstreetcn.com/articles/3759864) `🏆1` • 📺 华尔街见闻 • 🕐 00时26分~01时18分 • 🔁 2次
+**1.** [英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”](https://wallstreetcn.com/articles/3759864) `🏆1` • 📺 华尔街见闻 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**2.** [华为AI新技术揭晓！英伟达曾花50亿收购“同款”](https://www.cls.cn/detail/2207687) `🏆1` • 📺 财联社热门 • 🕐 00时26分~01时18分 • 🔁 2次
+**2.** [华为AI新技术揭晓！英伟达曾花50亿收购“同款”](https://www.cls.cn/detail/2207687) `🏆1` • 📺 财联社热门 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**3.** [谷歌邮箱默认开启了让 AI 访问你所有私人邮件和附件用于训练的权限](https://www.v2ex.com/t/1174314) `🏆2` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**3.** [育碧 CEO 力挺生成式 AI：这是一场重大革命，堪比当年从 2D 到 3D 的转变](https://www.ithome.com/0/899/332.htm) `🏆2` • 📺 IT之家 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**4.** [育碧 CEO 力挺生成式 AI：这是一场重大革命，堪比当年从 2D 到 3D 的转变](https://www.ithome.com/0/899/332.htm) `🏆2` • 📺 IT之家 • 🕐 00时26分~01时18分 • 🔁 2次
+**4.** [谷歌邮箱默认开启了让 AI 访问你所有私人邮件和附件用于训练的权限](https://www.v2ex.com/t/1174314) `🏆2-4` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**5.** [Olmo 3: Charting a path through the model flow to lead open-source AI](https://news.ycombinator.com/item?id=46001889) `🏆1-4` • 📺 Hacker News • 🕐 00时26分~01时18分 • 🔁 2次
+**5.** [OpenAI：GPT-5 模型正开始减轻科学家日常工作量](https://www.ithome.com/0/899/331.htm) `🏆3` • 📺 IT之家 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**6.** [OpenAI：GPT-5 模型正开始减轻科学家日常工作量](https://www.ithome.com/0/899/331.htm) `🏆3` • 📺 IT之家 • 🕐 00时26分~01时18分 • 🔁 2次
+**6.** [Olmo 3: Charting a path through the model flow to lead open-source AI](https://news.ycombinator.com/item?id=46001889) `🏆1-6` • 📺 Hacker News • 🕐 00时26分~02时27分 • 🔁 3次
 
-**7.** [FAWK: LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144) `🏆3-10` • 📺 Hacker News • 🕐 00时26分~01时18分 • 🔁 2次
+**7.** [🆕 LLM 时代，我的唯 2 瓶颈 脑子不够清晰和输入不够给力](https://www.v2ex.com/t/1174324) `🏆1` • 📺 V2EX • 🕐 02时27分
 
-**8.** [【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀](https://www.cls.cn/detail/2207484) `📊6` • 📺 财联社热门 • 🕐 00时26分~01时18分 • 🔁 2次
+**8.** [FAWK: LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144) `🏆3-10` • 📺 Hacker News • 🕐 00时26分~02时27分 • 🔁 3次
 
-**9.** [剑桥大学报告：近半小说家担心自己会被生成式 AI“抢饭碗”](https://www.ithome.com/0/899/327.htm) `📊7` • 📺 IT之家 • 🕐 00时26分~01时18分 • 🔁 2次
+**9.** [【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀](https://www.cls.cn/detail/2207484) `📊6-7` • 📺 财联社热门 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**10.** [开发了一个 Nano Banana Pro 的 AI 图片生成器，效果实在是太顶了！](https://www.v2ex.com/t/1174286) `📊8` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**10.** [剑桥大学报告：近半小说家担心自己会被生成式 AI“抢饭碗”](https://www.ithome.com/0/899/327.htm) `📊7` • 📺 IT之家 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**11.** [强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！](https://wallstreetcn.com/articles/3759838) `📊9` • 📺 华尔街见闻 • 🕐 00时26分~01时18分 • 🔁 2次
+**11.** [开发了一个 Nano Banana Pro 的 AI 图片生成器，效果实在是太顶了！](https://www.v2ex.com/t/1174286) `📊8-10` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**12.** [硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批](https://www.cls.cn/detail/2207779) `📊10-11` • 📺 财联社热门 • 🕐 00时26分~01时18分 • 🔁 2次
+**12.** [强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！](https://wallstreetcn.com/articles/3759838) `📊9` • 📺 华尔街见闻 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**13.** [谷歌：公司必须每半年翻倍一次 AI 算力才能满足需求](https://www.ithome.com/0/899/324.htm) `📊10` • 📺 IT之家 • 🕐 00时26分~01时18分 • 🔁 2次
+**13.** [硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批](https://www.cls.cn/detail/2207779) `📊10-11` • 📺 财联社热门 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**14.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时26分~01时18分 • 🔁 2次
+**14.** [谷歌：公司必须每半年翻倍一次 AI 算力才能满足需求](https://www.ithome.com/0/899/324.htm) `📊10` • 📺 IT之家 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**15.** [英国部分高校用“AI 教师”教课，学生反驳“我干嘛不直接问 GPT”](https://www.ithome.com/0/899/323.htm) `📊11` • 📺 IT之家 • 🕐 00时26分~01时18分 • 🔁 2次
+**15.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时26分~02时27分 • 🔁 3次
 
-**16.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时26分~01时18分 • 🔁 2次
+**16.** [英国部分高校用“AI 教师”教课，学生反驳“我干嘛不直接问 GPT”](https://www.ithome.com/0/899/323.htm) `📊11` • 📺 IT之家 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**17.** [web 菜鸟级选手， 1 天时间做了个 ai 学习工具网站](https://www.v2ex.com/t/1174264) `📊14` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**17.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时26分~02时27分 • 🔁 3次
 
-**18.** [我开源了一个用于调用 sora2 的 ai 画布](https://www.v2ex.com/t/1174221) `📊17` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**18.** [web 菜鸟级选手， 1 天时间做了个 ai 学习工具网站](https://www.v2ex.com/t/1174264) `📊14-16` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**19.** [如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？](https://www.zhihu.com/question/1975115860181022671) `📊18` • 📺 知乎 • 🕐 00时26分~01时18分 • 🔁 2次
+**19.** [我开源了一个用于调用 sora2 的 ai 画布](https://www.v2ex.com/t/1174221) `📊17-19` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**20.** [macbook 是否有好用的 ai agent 推荐](https://www.v2ex.com/t/1174214) `📊18` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**20.** [如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？](https://www.zhihu.com/question/1975115860181022671) `📊18` • 📺 知乎 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**21.** [如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？](https://www.zhihu.com/question/1971908267061019658) `📊19` • 📺 知乎 • 🕐 00时26分~01时18分 • 🔁 2次
+**21.** [macbook 是否有好用的 ai agent 推荐](https://www.v2ex.com/t/1174214) `📊18-20` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**22.** [[送码] 给 iOS 相机 APP，做了个 Ai 构图功能，欢迎试试～](https://www.v2ex.com/t/1174213) `📊19` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**22.** [如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？](https://www.zhihu.com/question/1971908267061019658) `📊19-20` • 📺 知乎 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**23.** [胡彦斌 不是AI的](https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top) `📊21` • 📺 微博 • 🕐 00时26分~01时18分 • 🔁 2次
+**23.** [[送码] 给 iOS 相机 APP，做了个 Ai 构图功能，欢迎试试～](https://www.v2ex.com/t/1174213) `📊19-21` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**24.** [New OS aims to provide (some) compatibility with macOS](https://news.ycombinator.com/item?id=45997212) `📊21-26` • 📺 Hacker News • 🕐 00时26分~01时18分 • 🔁 2次
+**24.** [胡彦斌 不是AI的](https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top) `📊21` • 📺 微博 • 🕐 00时26分~02时27分 • 🔁 3次
 
-**25.** [claude.ai 帐号被 ban， appeal 有成功的吗？有无解决办法，或替换方案？](https://www.v2ex.com/t/1174188) `📊24` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**25.** [claude.ai 帐号被 ban， appeal 有成功的吗？有无解决办法，或替换方案？](https://www.v2ex.com/t/1174188) `📊24-26` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**26.** [上线了一个 通过 AI 生成页面 + 在线预览 sketch 标注的平台，欢迎大家使用](https://www.v2ex.com/t/1174183) `📊27` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**26.** [上线了一个 通过 AI 生成页面 + 在线预览 sketch 标注的平台，欢迎大家使用](https://www.v2ex.com/t/1174183) `📊27-29` • 📺 V2EX • 🕐 00时26分~02时27分 • 🔁 3次
 
-**27.** [23-25 年算不算是 AI 超级军备竞赛的 3 年, 谁能想到才 3 年 LLM 的能力已经非常高了](https://www.v2ex.com/t/1174181) `📊29` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
+**27.** [深度学习顶会，为什么公开数据集，代码，也跑不出论文的结果？](https://www.zhihu.com/question/621649777) `📊6` • 📺 知乎 • 🕐 01时18分~02时27分 • 🔁 2次
 
-**28.** [🆕 深度学习顶会，为什么公开数据集，代码，也跑不出论文的结果？](https://www.zhihu.com/question/621649777) `📊6` • 📺 知乎 • 🕐 01时18分
+**28.** [Command Lines – AI Coding's Control Spectrum](https://news.ycombinator.com/item?id=46006004) `📊7-12` • 📺 Hacker News • 🕐 01时18分~02时27分 • 🔁 2次
 
-**29.** [🆕 Command Lines – AI Coding's Control Spectrum](https://news.ycombinator.com/item?id=46006004) `📊12` • 📺 Hacker News • 🕐 01时18分
+**29.** [New OS aims to provide (some) compatibility with macOS](https://news.ycombinator.com/item?id=45997212) `📊21-26` • 📺 Hacker News • 🕐 00时26分~01时18分 • 🔁 2次
 
-**30.** [🆕 The New AI Consciousness Paper – By Scott Alexander](https://news.ycombinator.com/item?id=46005928) `📊19` • 📺 Hacker News • 🕐 01时18分
+**30.** [23-25 年算不算是 AI 超级军备竞赛的 3 年, 谁能想到才 3 年 LLM 的能力已经非常高了](https://www.v2ex.com/t/1174181) `📊29` • 📺 V2EX • 🕐 00时26分~01时18分 • 🔁 2次
 
-**31.** [不是AI是爱](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AFAI%E6%98%AF%E7%88%B1%23&t=31&band_rank=25&Refer=top) `📊25` • 📺 微博 • 🕐 00时26分
+**31.** [The New AI Consciousness Paper – By Scott Alexander](https://news.ycombinator.com/item?id=46005928) `📊19` • 📺 Hacker News • 🕐 01时18分
 
----
-
-## 🆕 本次新增热点新闻 (共 3 条)
-
-### 📺 知乎 · 1条
-
----
-**1.** [深度学习顶会，为什么公开数据集，代码，也跑不出论文的结果？](https://www.zhihu.com/question/621649777) `📊6`
+**32.** [不是AI是爱](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AFAI%E6%98%AF%E7%88%B1%23&t=31&band_rank=25&Refer=top) `📊25` • 📺 微博 • 🕐 00时26分
 
 ---
 
-### 📺 Hacker News · 2条
+## 🆕 本次新增热点新闻 (共 1 条)
+
+### 📺 V2EX · 1条
 
 ---
-**1.** [Command Lines – AI Coding's Control Spectrum](https://news.ycombinator.com/item?id=46006004) `📊12`
-
-**2.** [The New AI Consciousness Paper – By Scott Alexander](https://news.ycombinator.com/item?id=46005928) `📊19`
+**1.** [LLM 时代，我的唯 2 瓶颈 脑子不够清晰和输入不够给力](https://www.v2ex.com/t/1174324) `🏆1`
 
 ---
 
