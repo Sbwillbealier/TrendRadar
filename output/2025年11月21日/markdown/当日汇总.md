@@ -7,132 +7,127 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 810 条 |
-| **热点新闻** | 44 条 |
-| **生成时间** | 11-21 18:21 |
+| **新闻总数** | 870 条 |
+| **热点新闻** | 46 条 |
+| **生成时间** | 11-21 19:17 |
 
 ---
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (44 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (46 条)
 
 [1/1]
 
 ---
 
-**1.** [业余时间搭的 AI 生图站 nanobananaproai.net，用了最新的 Nano Banana Pro 模型](https://www.v2ex.com/t/1174080) `🏆2-5` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
+**1.** [Olmo 3: Charting a path through the model flow to lead open-source AI](https://news.ycombinator.com/item?id=46001889) `🏆1-2` • 📺 Hacker News • 🕐 17时22分~19时17分 • 🔁 3次
 
-**2.** [Olmo 3: Charting a path through the model flow to lead open-source AI](https://news.ycombinator.com/item?id=46001889) `🏆1` • 📺 Hacker News • 🕐 17时22分~18时21分 • 🔁 2次
+**2.** [英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”](https://wallstreetcn.com/articles/3759864) `🏆1-5` • 📺 华尔街见闻 • 🕐 17时22分~19时17分 • 🔁 3次
 
-**3.** [英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”](https://wallstreetcn.com/articles/3759864) `🏆1-5` • 📺 华尔街见闻 • 🕐 17时22分~18时21分 • 🔁 2次
+**3.** [业余时间搭的 AI 生图站 nanobananaproai.net，用了最新的 Nano Banana Pro 模型](https://www.v2ex.com/t/1174080) `🏆2-5` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
 
 **4.** [ai 挑战赛](https://www.v2ex.com/t/1174070) `⭐4-7` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
 
-**5.** [🆕 首款全国产训推一体 AI 芯片：中诚华隆 HL 系列发布，兼容 CUDA 生态](https://www.ithome.com/0/899/268.htm) `🏆1` • 📺 IT之家 • 🕐 18时21分
+**5.** [🆕 开发了一个 Nano Banana Pro 的 AI 图片生成器，效果实在是太顶了！](https://www.v2ex.com/t/1174286) `🏆1` • 📺 V2EX • 🕐 19时17分
 
-**6.** [Google 最新图片模型 Nano Banana Pro 已经发布，快来 nanobananaproai.io 免费体验吧](https://www.v2ex.com/t/1174088) `🏆3` • 📺 V2EX • 🕐 02时30分
+**6.** [🆕 FAWK: LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144) `🏆1` • 📺 Hacker News • 🕐 19时17分
 
-**7.** [🆕 AI 助力构建迄今最精细银河系模拟，36 年的宇宙演化模拟可压缩至 115 天](https://www.ithome.com/0/899/247.htm) `⭐5` • 📺 IT之家 • 🕐 18时21分
+**7.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~19时17分 • 🔁 6次
 
-**8.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub • 🕐 00时28分~18时21分 • 🔁 5次
+**8.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~19时17分 • 🔁 6次
 
-**9.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub • 🕐 00时28分~18时21分 • 🔁 5次
+**9.** [web 菜鸟级选手， 1 天时间做了个 ai 学习工具网站](https://www.v2ex.com/t/1174264) `🏆2-7` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**10.** [web 菜鸟级选手， 1 天时间做了个 ai 学习工具网站](https://www.v2ex.com/t/1174264) `🏆2-7` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**10.** [Google 最新图片模型 Nano Banana Pro 已经发布，快来 nanobananaproai.io 免费体验吧](https://www.v2ex.com/t/1174088) `🏆3` • 📺 V2EX • 🕐 02时30分
 
-**11.** [我开源了一个用于调用 sora2 的 ai 画布](https://www.v2ex.com/t/1174221) `⭐5-10` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**11.** [我开源了一个用于调用 sora2 的 ai 画布](https://www.v2ex.com/t/1174221) `⭐5-10` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**12.** [英伟达黄仁勋坦言太难了：公司业绩好被指助推 AI 泡沫，不佳则被视为泡沫破裂](https://www.ithome.com/0/899/232.htm) `⭐5-18` • 📺 IT之家 • 🕐 17时22分~18时21分 • 🔁 2次
+**12.** [首款全国产训推一体 AI 芯片：中诚华隆 HL 系列发布，兼容 CUDA 生态](https://www.ithome.com/0/899/268.htm) `🏆1-9` • 📺 IT之家 • 🕐 18时21分~19时17分 • 🔁 2次
 
-**13.** [谷歌 Gemini 推出 AI 内容检测功能，未来将支持通用 C2PA 标准](https://www.ithome.com/0/899/015.htm) `📊6` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
+**13.** [英伟达黄仁勋坦言太难了：公司业绩好被指助推 AI 泡沫，不佳则被视为泡沫破裂](https://www.ithome.com/0/899/232.htm) `⭐5-26` • 📺 IT之家 • 🕐 17时22分~19时17分 • 🔁 3次
 
-**14.** [英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出](https://wallstreetcn.com/articles/3759756) `📊6-7` • 📺 华尔街见闻 • 🕐 00时28分~02时30分 • 🔁 3次
+**14.** [AI 助力构建迄今最精细银河系模拟，36 年的宇宙演化模拟可压缩至 115 天](https://www.ithome.com/0/899/247.htm) `⭐5-13` • 📺 IT之家 • 🕐 18时21分~19时17分 • 🔁 2次
 
-**15.** [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://news.ycombinator.com/item?id=45991738) `📊6-16` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
+**15.** [谷歌 Gemini 推出 AI 内容检测功能，未来将支持通用 C2PA 标准](https://www.ithome.com/0/899/015.htm) `📊6` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**16.** [Europe is scaling back GDPR and relaxing AI laws](https://news.ycombinator.com/item?id=45980117) `📊13-27` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
+**16.** [英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出](https://wallstreetcn.com/articles/3759756) `📊6-7` • 📺 华尔街见闻 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**17.** [马斯克的 AI 聊天机器人 Grok 发表否认“大屠杀”言论，遭法国调查](https://www.ithome.com/0/899/002.htm) `📊17` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
+**17.** [macbook 是否有好用的 ai agent 推荐](https://www.v2ex.com/t/1174214) `📊6-11` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**18.** [UP主翻唱AI歌曲美猴亡](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1) `📊18-20` • 📺 bilibili 热搜 • 🕐 00时28分~02时30分 • 🔁 3次
+**18.** [[送码] 给 iOS 相机 APP，做了个 Ai 构图功能，欢迎试试～](https://www.v2ex.com/t/1174213) `📊7-12` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**19.** [每次看到有人对线的时候贴出 AI 的回复当论据我就觉得好笑😂](https://www.v2ex.com/t/1174027) `📊18-20` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
+**19.** [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://news.ycombinator.com/item?id=45991738) `📊6-16` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
 
-**20.** [Ask HN: How are Markov chains so different from tiny LLMs?](https://news.ycombinator.com/item?id=45958004) `📊19-30` • 📺 Hacker News • 🕐 02时30分~18时21分 • 🔁 3次
+**20.** [央视曝光网购 AI 骗术：买家用 AI 生成瑕疵图造假，要求卖家“仅退款”](https://www.ithome.com/0/899/228.htm) `📊8-29` • 📺 IT之家 • 🕐 17时22分~19时17分 • 🔁 3次
 
-**21.** [# [教程] Strapi v5 部署 Railway 避坑指南：告别 AggregateError](https://www.v2ex.com/t/1174010) `📊23-25` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
+**21.** [强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！](https://wallstreetcn.com/articles/3759838) `📊9-10` • 📺 华尔街见闻 • 🕐 17时22分~19时17分 • 🔁 3次
 
-**22.** [爆冲榜首!豆包反超AI老大哥登顶](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6) `📊28` • 📺 贴吧 • 🕐 00时28分~02时30分 • 🔁 3次
+**22.** [New OS aims to provide (some) compatibility with macOS](https://news.ycombinator.com/item?id=45997212) `📊9-10` • 📺 Hacker News • 🕐 17时22分~19时17分 • 🔁 3次
 
-**23.** [macbook 是否有好用的 ai agent 推荐](https://www.v2ex.com/t/1174214) `📊6-11` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**23.** [claude.ai 帐号被 ban， appeal 有成功的吗？有无解决办法，或替换方案？](https://www.v2ex.com/t/1174188) `📊12-17` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**24.** [[送码] 给 iOS 相机 APP，做了个 Ai 构图功能，欢迎试试～](https://www.v2ex.com/t/1174213) `📊7-12` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**24.** [Europe is scaling back GDPR and relaxing AI laws](https://news.ycombinator.com/item?id=45980117) `📊13-27` • 📺 Hacker News • 🕐 00时28分~02时30分 • 🔁 3次
 
-**25.** [央视曝光网购 AI 骗术：买家用 AI 生成瑕疵图造假，要求卖家“仅退款”](https://www.ithome.com/0/899/228.htm) `📊8-21` • 📺 IT之家 • 🕐 17时22分~18时21分 • 🔁 2次
+**25.** [上线了一个 通过 AI 生成页面 + 在线预览 sketch 标注的平台，欢迎大家使用](https://www.v2ex.com/t/1174183) `📊15-20` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**26.** [强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！](https://wallstreetcn.com/articles/3759838) `📊9` • 📺 华尔街见闻 • 🕐 17时22分~18时21分 • 🔁 2次
+**26.** [23-25 年算不算是 AI 超级军备竞赛的 3 年, 谁能想到才 3 年 LLM 的能力已经非常高了](https://www.v2ex.com/t/1174181) `📊17-22` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**27.** [New OS aims to provide (some) compatibility with macOS](https://news.ycombinator.com/item?id=45997212) `📊9` • 📺 Hacker News • 🕐 17时22分~18时21分 • 🔁 2次
+**27.** [马斯克的 AI 聊天机器人 Grok 发表否认“大屠杀”言论，遭法国调查](https://www.ithome.com/0/899/002.htm) `📊17` • 📺 IT之家 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**28.** [AI 公司 Udio 与华纳音乐达成和解，将共同构建版权付费创作平台](https://www.ithome.com/0/899/226.htm) `📊10-23` • 📺 IT之家 • 🕐 17时22分~18时21分 • 🔁 2次
+**28.** [UP主翻唱AI歌曲美猴亡](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1) `📊18-20` • 📺 bilibili 热搜 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**29.** [claude.ai 帐号被 ban， appeal 有成功的吗？有无解决办法，或替换方案？](https://www.v2ex.com/t/1174188) `📊12-17` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**29.** [每次看到有人对线的时候贴出 AI 的回复当论据我就觉得好笑😂](https://www.v2ex.com/t/1174027) `📊18-20` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
 
-**30.** [上线了一个 通过 AI 生成页面 + 在线预览 sketch 标注的平台，欢迎大家使用](https://www.v2ex.com/t/1174183) `📊15-20` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**30.** [Ask HN: How are Markov chains so different from tiny LLMs?](https://news.ycombinator.com/item?id=45958004) `📊19-30` • 📺 Hacker News • 🕐 02时30分~18时21分 • 🔁 3次
 
-**31.** [23-25 年算不算是 AI 超级军备竞赛的 3 年, 谁能想到才 3 年 LLM 的能力已经非常高了](https://www.v2ex.com/t/1174181) `📊17-22` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**31.** [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://news.ycombinator.com/item?id=45996860) `📊19-25` • 📺 Hacker News • 🕐 17时22分~19时17分 • 🔁 3次
 
-**32.** [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://news.ycombinator.com/item?id=45996860) `📊19-21` • 📺 Hacker News • 🕐 17时22分~18时21分 • 🔁 2次
+**32.** [易梦玲称和胡彦斌海边视频是AI](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top) `📊21-22` • 📺 微博 • 🕐 17时22分~19时17分 • 🔁 3次
 
-**33.** [易梦玲称和胡彦斌海边视频是AI](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top) `📊21-22` • 📺 微博 • 🕐 17时22分~18时21分 • 🔁 2次
+**33.** [10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人](https://www.v2ex.com/t/1174145) `📊21-26` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**34.** [10 分钟在 Vercel 部署属于你自己的开源 AI 股票机器人](https://www.v2ex.com/t/1174145) `📊21-26` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**34.** [LLM 的行业黑话真的多,什么刘备,人体雷达,破甲](https://www.v2ex.com/t/1174156) `📊22-27` • 📺 V2EX • 🕐 17时22分~19时17分 • 🔁 3次
 
-**35.** [LLM 的行业黑话真的多,什么刘备,人体雷达,破甲](https://www.v2ex.com/t/1174156) `📊22-27` • 📺 V2EX • 🕐 17时22分~18时21分 • 🔁 2次
+**35.** [Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs](https://news.ycombinator.com/item?id=45991738) `📊22-24` • 📺 Hacker News • 🕐 17时22分~19时17分 • 🔁 3次
 
-**36.** [Wrapping my head around AI wrappers](https://news.ycombinator.com/item?id=45939148) `📊22-26` • 📺 Hacker News • 🕐 00时28分~01时16分 • 🔁 2次
+**36.** [# [教程] Strapi v5 部署 Railway 避坑指南：告别 AggregateError](https://www.v2ex.com/t/1174010) `📊23-25` • 📺 V2EX • 🕐 00时28分~02时30分 • 🔁 3次
 
-**37.** [Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs](https://news.ycombinator.com/item?id=45991738) `📊22` • 📺 Hacker News • 🕐 17时22分~18时21分 • 🔁 2次
+**37.** [爆冲榜首!豆包反超AI老大哥登顶](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6) `📊28` • 📺 贴吧 • 🕐 00时28分~02时30分 • 🔁 3次
 
-**38.** [Details about the shebang/hash-bang mechanism on various Unix flavours (2001)](https://news.ycombinator.com/item?id=45989186) `📊28-29` • 📺 Hacker News • 🕐 00时28分~01时16分 • 🔁 2次
+**38.** [AI 公司 Udio 与华纳音乐达成和解，将共同构建版权付费创作平台](https://www.ithome.com/0/899/226.htm) `📊10-23` • 📺 IT之家 • 🕐 17时22分~18时21分 • 🔁 2次
 
-**39.** [英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心](https://wallstreetcn.com/articles/3759810) `📊10` • 📺 华尔街见闻 • 🕐 17时22分
+**39.** [【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀](https://www.cls.cn/detail/2207484) `📊11-13` • 📺 财联社热门 • 🕐 18时21分~19时17分 • 🔁 2次
 
-**40.** [🆕 【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀](https://www.cls.cn/detail/2207484) `📊13` • 📺 财联社热门 • 🕐 18时21分
+**40.** [Wrapping my head around AI wrappers](https://news.ycombinator.com/item?id=45939148) `📊22-26` • 📺 Hacker News • 🕐 00时28分~01时16分 • 🔁 2次
 
-**41.** [华为发布并开源 Flex:ai AI 容器技术，实现单卡同时承载多个 AI 工作负载](https://www.ithome.com/0/899/213.htm) `📊21` • 📺 IT之家 • 🕐 17时22分
+**41.** [Details about the shebang/hash-bang mechanism on various Unix flavours (2001)](https://news.ycombinator.com/item?id=45989186) `📊28-29` • 📺 Hacker News • 🕐 00时28分~01时16分 • 🔁 2次
 
-**42.** [🆕 明星AI澄清元年](https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%9FAI%E6%BE%84%E6%B8%85%E5%85%83%E5%B9%B4&t=31&band_rank=24&Refer=top) `📊24` • 📺 微博 • 🕐 18时21分
+**42.** [英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心](https://wallstreetcn.com/articles/3759810) `📊10` • 📺 华尔街见闻 • 🕐 17时22分
 
-**43.** [My Home Network Domain Name Resolution Plan](https://news.ycombinator.com/item?id=45939354) `📊28` • 📺 Hacker News • 🕐 02时30分
+**43.** [华为发布并开源 Flex:ai AI 容器技术，实现单卡同时承载多个 AI 工作负载](https://www.ithome.com/0/899/213.htm) `📊21` • 📺 IT之家 • 🕐 17时22分
 
-**44.** [Typesetting the "Begriffsschrift" by Gottlob Frege in Plain TeX [pdf]](https://news.ycombinator.com/item?id=45893696) `📊29` • 📺 Hacker News • 🕐 02时30分
+**44.** [明星AI澄清元年](https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%9FAI%E6%BE%84%E6%B8%85%E5%85%83%E5%B9%B4&t=31&band_rank=24&Refer=top) `📊24` • 📺 微博 • 🕐 18时21分
 
----
+**45.** [My Home Network Domain Name Resolution Plan](https://news.ycombinator.com/item?id=45939354) `📊28` • 📺 Hacker News • 🕐 02时30分
 
-## 🆕 本次新增热点新闻 (共 4 条)
-
-### 📺 财联社热门 · 1条
-
----
-**1.** [【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀](https://www.cls.cn/detail/2207484) `📊13`
+**46.** [Typesetting the "Begriffsschrift" by Gottlob Frege in Plain TeX [pdf]](https://news.ycombinator.com/item?id=45893696) `📊29` • 📺 Hacker News • 🕐 02时30分
 
 ---
 
-### 📺 微博 · 1条
+## 🆕 本次新增热点新闻 (共 2 条)
+
+### 📺 V2EX · 1条
 
 ---
-**1.** [明星AI澄清元年](https://s.weibo.com/weibo?q=%E6%98%8E%E6%98%9FAI%E6%BE%84%E6%B8%85%E5%85%83%E5%B9%B4&t=31&band_rank=24&Refer=top) `📊24`
+**1.** [开发了一个 Nano Banana Pro 的 AI 图片生成器，效果实在是太顶了！](https://www.v2ex.com/t/1174286) `🏆1`
 
 ---
 
-### 📺 IT之家 · 2条
+### 📺 Hacker News · 1条
 
 ---
-**1.** [首款全国产训推一体 AI 芯片：中诚华隆 HL 系列发布，兼容 CUDA 生态](https://www.ithome.com/0/899/268.htm) `🏆1`
-
-**2.** [AI 助力构建迄今最精细银河系模拟，36 年的宇宙演化模拟可压缩至 115 天](https://www.ithome.com/0/899/247.htm) `⭐5`
+**1.** [FAWK: LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144) `🏆1`
 
 ---
 
