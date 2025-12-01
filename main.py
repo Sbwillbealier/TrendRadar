@@ -2837,9 +2837,8 @@ def render_markdown_content(
     now = get_beijing_time()
 
     # 构建Markdown内容
-    markdown_content = f"""# 📊 TrendRadar 热点新闻分析
+    markdown_content = f"""# 📊 AI 热点新闻分析({now.strftime('%Y-%m-%d')})
 
----
 
 ## 📋 报告概览
 
@@ -2850,14 +2849,13 @@ def render_markdown_content(
 | **热点新闻** | {hot_news_count} 条 |
 | **生成时间** | {now.strftime('%m-%d %H:%M')} |
 
----
 
 """
 
     # 处理失败ID错误信息
     if report_data["failed_ids"]:
         markdown_content += """## ⚠️ 请求失败的平台
-
+---
 """
         for id_value in report_data["failed_ids"]:
             markdown_content += f"- `{id_value}`\n"
@@ -2947,72 +2945,27 @@ def render_markdown_content(
                 else:
                     formatted_title = f"{new_marker}{title}"
 
-                markdown_content += f"""**{j}.** {formatted_title} `{rank_text}` • 📺 {source_name}{time_info}{count_info}
+                markdown_content += f"""**{j}.** {formatted_title} `{rank_text}` • 📺 {source_name} 🖱️ {url}
 
 """
 
             if i < len(report_data["stats"]):
                 markdown_content += "---\n\n"
 
-    # 处理新增新闻区域
-    if report_data["new_titles"]:
-        markdown_content += f"""---
-
-## 🆕 本次新增热点新闻 (共 {report_data['total_new_count']} 条)
-
-"""
-        for source_data in report_data["new_titles"]:
-            source_name = source_data["source_name"]
-            titles_count = len(source_data["titles"])
-
-            markdown_content += f"""### 📺 {source_name} · {titles_count}条
-
----
-"""
-            # 为新增新闻添加序号
-            for idx, title_data in enumerate(source_data["titles"], 1):
-                title = title_data["title"]
-
-                # 处理新增新闻的排名显示
-                ranks = title_data.get("ranks", [])
-                if ranks:
-                    min_rank = min(ranks)
-                    if min_rank <= 3:
-                        rank_emoji = "🏆"
-                    elif min_rank <= title_data.get("rank_threshold", 10):
-                        rank_emoji = "⭐"
-                    else:
-                        rank_emoji = "📊"
-
-                    if len(ranks) == 1:
-                        rank_text = f"{rank_emoji}{ranks[0]}"
-                    else:
-                        rank_text = f"{rank_emoji}{min(ranks)}-{max(ranks)}"
-                else:
-                    rank_text = "❓"
-
-                # 处理URL
-                url = title_data.get("mobile_url") or title_data.get("url", "")
-                if url:
-                    formatted_title = f"[{title}]({url})"
-                else:
-                    formatted_title = title
-
-                markdown_content += f"""**{idx}.** {formatted_title} `{rank_text}`
-
-"""
-            markdown_content += "---\n\n"
 
     # 添加页脚
     markdown_content += """---
 
 ## 📝 关于
 
-本报告由 **TrendRadar** 生成
+本报告由 [CoderJia](https://coderjia.cn) 基于 **TrendRadar** 整理发布，助力开发者洞察AI技术趋势。
 
-- 🌐 **GitHub**: [https://github.com/sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+- 🌐 **TrendRadar**: [https://github.com/sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 - 📧 **开源项目**: 热点新闻分析与监控系统
 - 🔧 **版本信息**: 自动爬取、智能分析、多平台推送
+- 👨‍💻 **发布者**: [https://coderjia.cn](https://coderjia.cn)
+
+![CoderJia](https://coderjia-1254377750.cos.ap-shanghai.myqcloud.com/blog/20250808143045492.png)
 
 """
 
