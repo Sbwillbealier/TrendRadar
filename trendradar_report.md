@@ -6,9 +6,9 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 725 条 |
+| **新闻总数** | 794 条 |
 | **热点新闻** | 26 条 |
-| **生成时间** | 12-01 13:34 |
+| **生成时间** | 12-01 14:41 |
 
 
 ## 🔥 热点词汇统计
@@ -29,43 +29,43 @@
 
 **5.** [为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?](https://www.zhihu.com/question/1923520417756321577) `📊14` • 📺 知乎 🖱️ https://www.zhihu.com/question/1923520417756321577
 
-**6.** [🆕 ATK A9 Air 大师版鼠标价格公布：首发 299.2 元、12 月 4 日开售，47g 轻量化设计](https://www.ithome.com/0/901/525.htm) `🏆1` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/525.htm
+**6.** [Search tool that only returns content created before ChatGPT's public release](https://news.ycombinator.com/item?id=46103376) `🏆1` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46103376
 
-**7.** [🆕 Search tool that only returns content created before ChatGPT's public release](https://news.ycombinator.com/item?id=46103376) `🏆1` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46103376
+**7.** [直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息](https://wallstreetcn.com/articles/3760431) `🏆3-9` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760431
 
-**8.** [🆕 罗永浩宣布将于 12 月 30 日举行年度科技创新分享大会，将发布细红线科技 AI 软件](https://www.ithome.com/0/901/524.htm) `🏆2` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/524.htm
+**8.** [ATK A9 Air 大师版鼠标价格公布：首发 299.2 元、12 月 4 日开售，47g 轻量化设计](https://www.ithome.com/0/901/525.htm) `🏆1-8` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/525.htm
 
-**9.** [直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息](https://wallstreetcn.com/articles/3760431) `⭐5-9` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760431
+**9.** [字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？](https://www.cls.cn/detail/2215541) `⭐5-12` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2215541
 
-**10.** [海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察](https://www.cls.cn/detail/2215163) `📊7-9` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2215163
+**10.** [罗永浩宣布将于 12 月 30 日举行年度科技创新分享大会，将发布细红线科技 AI 软件](https://www.ithome.com/0/901/524.htm) `🏆2-9` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/524.htm
 
-**11.** [这可能是我见过的最好用的 Nano Banana Pro 图片生成工具了， 99% 的代码是由 AI 写的， Cursor、Antigravity、Claude Code 轮番上阵](https://www.v2ex.com/t/1176014) `📊10-11` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176014
+**11.** [海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察](https://www.cls.cn/detail/2215163) `📊7-9` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2215163
 
-**12.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub 🖱️ https://github.com/GibsonAI/Memori
+**12.** [这可能是我见过的最好用的 Nano Banana Pro 图片生成工具了， 99% 的代码是由 AI 写的， Cursor、Antigravity、Claude Code 轮番上阵](https://www.v2ex.com/t/1176014) `📊10-16` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176014
 
-**13.** [用 AI 中转站的注意了](https://www.v2ex.com/t/1176009) `📊12-13` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176009
+**13.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub 🖱️ https://github.com/GibsonAI/Memori
 
-**14.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub 🖱️ https://github.com/microsoft/call-center-ai
+**14.** [用 AI 中转站的注意了](https://www.v2ex.com/t/1176009) `📊12-18` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176009
 
-**15.** [华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现](https://www.cls.cn/detail/2215245) `📊13` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2215245
+**15.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub 🖱️ https://github.com/microsoft/call-center-ai
 
-**16.** [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://news.ycombinator.com/item?id=46099108) `📊13-15` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46099108
+**16.** [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://news.ycombinator.com/item?id=46099108) `📊13-20` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46099108
 
-**17.** [gemini3 pro 对比 ChatGPT plus](https://www.v2ex.com/t/1175996) `📊16-17` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1175996
+**17.** [gemini3 pro 对比 ChatGPT plus](https://www.v2ex.com/t/1175996) `📊16-22` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1175996
 
-**18.** [AI just proved Erdos Problem #124](https://news.ycombinator.com/item?id=46094037) `📊18-22` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46094037
+**18.** [AI just proved Erdos Problem #124](https://news.ycombinator.com/item?id=46094037) `📊18-25` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46094037
 
-**19.** [AI 随手记全新升级：桌面记录、语音输入、Siri 快捷，让记录更轻松](https://www.v2ex.com/t/1175984) `📊20-21` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1175984
+**19.** [AI 随手记全新升级：桌面记录、语音输入、Siri 快捷，让记录更轻松](https://www.v2ex.com/t/1175984) `📊20-26` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1175984
 
-**20.** [599 元起：雷神首款 AI 眼镜 Aura 悦享版 开启首销，可选四类镜框](https://www.ithome.com/0/901/464.htm) `📊20-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/464.htm
+**20.** [RetailReady (YC W24) Is Hiring Associate Product Manager](https://news.ycombinator.com/item?id=46098336) `📊24-30` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46098336
 
-**21.** [RetailReady (YC W24) Is Hiring Associate Product Manager](https://news.ycombinator.com/item?id=46098336) `📊24-28` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46098336
+**21.** [华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现](https://www.cls.cn/detail/2215245) `📊13` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2215245
 
-**22.** [发现 CF 的 AI Gateway 很好用，顺手写了一个支持 ClaudeCode 和 Jetbrains 的代理](https://www.v2ex.com/t/1175934) `📊27-28` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1175934
+**22.** [599 元起：雷神首款 AI 眼镜 Aura 悦享版 开启首销，可选四类镜框](https://www.ithome.com/0/901/464.htm) `📊20-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/464.htm
 
-**23.** [字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？](https://www.cls.cn/detail/2215541) `📊8-12` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2215541
+**23.** [发现 CF 的 AI Gateway 很好用，顺手写了一个支持 ClaudeCode 和 Jetbrains 的代理](https://www.v2ex.com/t/1175934) `📊27-28` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1175934
 
-**24.** [🆕 X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://news.ycombinator.com/item?id=46103097) `📊10` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46103097
+**24.** [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://news.ycombinator.com/item?id=46103097) `📊9-10` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46103097
 
 **25.** [没想到夸克AI浏览器还可以这么用](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top) `📊15` • 📺 微博 🖱️ https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top
 
