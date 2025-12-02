@@ -6,14 +6,14 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 840 条 |
-| **热点新闻** | 50 条 |
-| **生成时间** | 12-02 17:33 |
+| **新闻总数** | 891 条 |
+| **热点新闻** | 52 条 |
+| **生成时间** | 12-02 18:30 |
 
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (50 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (52 条)
 
 [1/1]
 
@@ -23,79 +23,79 @@
 
 **2.** [What will enter the public domain in 2026?](https://news.ycombinator.com/item?id=46117112) `🏆1` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46117112
 
-**3.** [剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块](https://www.cls.cn/detail/2216587) `⭐4-6` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216587
+**3.** [网警破获通过AI换脸非法侵入系统案](https://www.toutiao.com/trending/7578802867742461503/) `📊6` • 📺 今日头条 🖱️ https://www.toutiao.com/trending/7578802867742461503/
 
-**4.** [“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机](https://www.cls.cn/detail/2216608) `⭐5-9` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216608
+**4.** [网警破获“AI换脸”侵入计算机案](https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88) `📊6` • 📺 百度热搜 🖱️ https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88
 
-**5.** [AI agents find $4.6M in blockchain smart contract exploits](https://news.ycombinator.com/item?id=46115214) `🏆2-30` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46115214
+**5.** [网警破获AI换脸非法侵入案](https://www.douyin.com/hot/2323802) `📊6` • 📺 抖音 🖱️ https://www.douyin.com/hot/2323802
 
-**6.** [Arcee Trinity Mini: US-Trained Moe Model](https://news.ycombinator.com/item?id=46115682) `⭐5-19` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46115682
+**6.** [Arcee Trinity Mini: US-Trained Moe Model](https://news.ycombinator.com/item?id=46115682) `⭐5-21` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46115682
 
-**7.** [网警破获通过AI换脸非法侵入系统案](https://www.toutiao.com/trending/7578802867742461503/) `📊6` • 📺 今日头条 🖱️ https://www.toutiao.com/trending/7578802867742461503/
+**7.** [剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块](https://www.cls.cn/detail/2216587) `⭐4-6` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216587
 
-**8.** [网警破获“AI换脸”侵入计算机案](https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88) `📊6` • 📺 百度热搜 🖱️ https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88
+**8.** [“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机](https://www.cls.cn/detail/2216608) `⭐5-9` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216608
 
-**9.** [网警破获AI换脸非法侵入系统案](https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88) `📊6` • 📺 bilibili 热搜 🖱️ https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88
+**9.** [AI agents find $4.6M in blockchain smart contract exploits](https://news.ycombinator.com/item?id=46115214) `🏆2-30` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46115214
 
-**10.** [网警破获AI换脸非法侵入案](https://www.douyin.com/hot/2323802) `📊6` • 📺 抖音 🖱️ https://www.douyin.com/hot/2323802
+**10.** [英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环](https://wallstreetcn.com/articles/3760479) `📊8-10` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760479
 
-**11.** [时至今日，似乎还办法从 figma 设计图像素级的生成代码？这不应该是 AI 擅长领域吗？](https://www.v2ex.com/t/1176321) `🏆3-14` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176321
+**11.** [时至今日，似乎还办法从 figma 设计图像素级的生成代码？这不应该是 AI 擅长领域吗？](https://www.v2ex.com/t/1176321) `🏆3-16` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176321
 
-**12.** [英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环](https://wallstreetcn.com/articles/3760479) `📊8-10` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760479
+**12.** [人类大脑还是比 AI 强太多了](https://www.v2ex.com/t/1176252) `📊7-26` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176252
 
-**13.** [人类大脑还是比 AI 强太多了](https://www.v2ex.com/t/1176252) `📊7-24` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176252
+**13.** [顶顶好用好看的 mermaid 图表设计工具更新了，可以来康康](https://www.v2ex.com/t/1176245) `📊8-27` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176245
 
-**14.** [顶顶好用好看的 mermaid 图表设计工具更新了，可以来康康](https://www.v2ex.com/t/1176245) `📊8-25` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176245
+**14.** [AI 生成小红书封面和图文](https://www.v2ex.com/t/1176240) `📊10-29` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176240
 
-**15.** [AI 生成小红书封面和图文](https://www.v2ex.com/t/1176240) `📊10-27` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176240
+**15.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub 🖱️ https://github.com/GibsonAI/Memori
 
-**16.** [GibsonAI / Memori](https://github.com/GibsonAI/Memori) `📊10` • 📺 GitHub 🖱️ https://github.com/GibsonAI/Memori
+**16.** [Google, Nvidia, and OpenAI](https://news.ycombinator.com/item?id=46108437) `📊11-22` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46108437
 
-**17.** [Google, Nvidia, and OpenAI](https://news.ycombinator.com/item?id=46108437) `📊11-21` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46108437
+**17.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub 🖱️ https://github.com/microsoft/call-center-ai
 
-**18.** [AI 打分项目 , 感觉还是客观的](https://www.v2ex.com/t/1176221) `📊12-29` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176221
+**18.** [AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用](https://www.cls.cn/detail/2216806) `🏆2-11` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216806
 
-**19.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub 🖱️ https://github.com/microsoft/call-center-ai
+**19.** [网警破获AI换脸非法侵入系统案](https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88) `📊6` • 📺 bilibili 热搜 🖱️ https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88
 
-**20.** [AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用](https://www.cls.cn/detail/2216806) `🏆2-11` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216806
+**20.** [AI 打分项目 , 感觉还是客观的](https://www.v2ex.com/t/1176221) `📊12-29` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176221
 
-**21.** [萌翻（AI 翻译/AI 词典），给大家发个 AI 额度福利，感谢 V2EX 的很多创意和意见](https://www.v2ex.com/t/1176355) `🏆3-9` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176355
+**21.** [讨论下 AI 时代的软件架构与协作关系的几个可能的变化](https://www.v2ex.com/t/1176343) `🏆2-14` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176343
 
-**22.** [讨论下 AI 时代的软件架构与协作关系的几个可能的变化](https://www.v2ex.com/t/1176343) `🏆2-12` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176343
+**22.** [萌翻（AI 翻译/AI 词典），给大家发个 AI 额度福利，感谢 V2EX 的很多创意和意见](https://www.v2ex.com/t/1176355) `🏆3-11` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176355
 
-**23.** [网警侦破AI换脸侵入计算机案](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top) `🏆3` • 📺 微博 🖱️ https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top
+**23.** [AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链](https://www.cls.cn/detail/2216759) `⭐4-12` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216759
 
-**24.** [苹果更换AI主管 白银年内涨幅突破100% | 环球市场](https://www.cls.cn/detail/2216521) `📊11-13` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216521
+**24.** [Dev Containers 在 antigravity 没法使用](https://www.v2ex.com/t/1176421) `🏆2-4` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176421
 
-**25.** [直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息](https://wallstreetcn.com/articles/3760431) `🏆2` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760431
+**25.** [网警侦破AI换脸侵入计算机案](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top) `🏆3` • 📺 微博 🖱️ https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top
 
-**26.** [🆕 Dev Containers 在 antigravity 没法使用](https://www.v2ex.com/t/1176421) `🏆2` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176421
+**26.** [谷歌揭秘了AI竞赛的底牌](https://m.thepaper.cn/newsDetail_forward_32067068) `📊11-17` • 📺 澎湃新闻 🖱️ https://m.thepaper.cn/newsDetail_forward_32067068
 
-**27.** [🆕 消息称 OpenAI 内部拉响“红色警报”：奥尔特曼亲自下令改进 ChatGPT，计划下周一发布新推理模型](https://www.ithome.com/0/901/914.htm) `🏆2` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/914.htm
+**27.** [苹果更换AI主管 白银年内涨幅突破100% | 环球市场](https://www.cls.cn/detail/2216521) `📊11-13` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216521
 
-**28.** [🆕 铁威马将推旗舰 SMB 型 AI NAS 产品 T12-500 Max，搭载 Ultra 7 255H](https://www.ithome.com/0/901/912.htm) `🏆3` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/912.htm
+**28.** [直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息](https://wallstreetcn.com/articles/3760431) `🏆2` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760431
 
-**29.** [AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链](https://www.cls.cn/detail/2216759) `📊6-12` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216759
+**29.** [亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？](https://www.cls.cn/detail/2216943) `🏆3-8` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216943
 
 **30.** [TGA 2025 玩家之声最终入围名单公布，《Arc Raiders》《原神》《双影奇境》等 30 款游戏提名](https://www.ithome.com/0/901/783.htm) `🏆2-25` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/783.htm
 
-**31.** [谷歌揭秘了AI竞赛的底牌](https://m.thepaper.cn/newsDetail_forward_32067068) `📊12-17` • 📺 澎湃新闻 🖱️ https://m.thepaper.cn/newsDetail_forward_32067068
+**31.** [公司账号被盗？网警破获 AI 换脸非法侵入案](https://www.ithome.com/0/901/808.htm) `⭐4-17` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/808.htm
 
-**32.** [公司账号被盗？网警破获 AI 换脸非法侵入案](https://www.ithome.com/0/901/808.htm) `⭐4-17` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/808.htm
+**32.** [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://news.ycombinator.com/item?id=46118722) `⭐5-12` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46118722
 
-**33.** [亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？](https://www.cls.cn/detail/2216943) `🏆3-8` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2216943
+**33.** [消息称 OpenAI 内部拉响“红色警报”：奥尔特曼亲自下令改进 ChatGPT，计划下周一发布新推理模型](https://www.ithome.com/0/901/914.htm) `🏆2-9` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/914.htm
 
-**34.** [微软 Dragon Copilot 为护士减负：让其只管救人，写病历交给 AI](https://www.ithome.com/0/901/772.htm) `📊6-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/772.htm
+**34.** [铁威马将推旗舰 SMB 型 AI NAS 产品 T12-500 Max，搭载 Ultra 7 255H](https://www.ithome.com/0/901/912.htm) `🏆3-10` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/912.htm
 
-**35.** [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://news.ycombinator.com/item?id=46118722) `⭐5-12` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46118722
+**35.** [微软 Dragon Copilot 为护士减负：让其只管救人，写病历交给 AI](https://www.ithome.com/0/901/772.htm) `📊6-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/772.htm
 
-**36.** [研究警告：AI 伪造的动物视频正在误导孩子，破坏自然认知](https://www.ithome.com/0/901/790.htm) `📊10-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/790.htm
+**36.** [首销备货 50 万台，豆包 AI 手机要卖给谁？](https://wallstreetcn.com/articles/3760465) `📊10` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760465
 
-**37.** [首销备货 50 万台，豆包 AI 手机要卖给谁？](https://wallstreetcn.com/articles/3760465) `📊10` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760465
+**37.** [研究警告：AI 伪造的动物视频正在误导孩子，破坏自然认知](https://www.ithome.com/0/901/790.htm) `📊10-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/790.htm
 
-**38.** [做了一款 AI 战略游戏--重写战争历史](https://www.v2ex.com/t/1176179) `📊20-27` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176179
+**38.** [6299 元：机械革命星耀 14 笔记本星光白版开启新品预约，搭载锐龙 AI 9 H 365 处理器、32GB 内存](https://www.ithome.com/0/901/880.htm) `📊8-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/880.htm
 
-**39.** [6299 元：机械革命星耀 14 笔记本星光白版开启新品预约，搭载锐龙 AI 9 H 365 处理器、32GB 内存](https://www.ithome.com/0/901/880.htm) `📊8-22` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/880.htm
+**39.** [做了一款 AI 战略游戏--重写战争历史](https://www.v2ex.com/t/1176179) `📊20-27` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176179
 
 **40.** [英伟达发布 TiDAR：单步生成多个 Token，AI 吞吐量提升近 600%](https://www.ithome.com/0/901/858.htm) `📊10-21` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/858.htm
 
@@ -115,9 +115,13 @@
 
 **48.** [汇丰银行与 Mistral AI 建立战略合作伙伴关系，导入后者商用模型](https://www.ithome.com/0/901/747.htm) `📊20` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/747.htm
 
-**49.** [Sycophancy is the first LLM "dark pattern"](https://news.ycombinator.com/item?id=46112640) `📊27` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46112640
+**49.** [🆕 Invisible Details of Interaction Design](https://news.ycombinator.com/item?id=46056022) `📊25` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46056022
 
-**50.** [特斯拉疑似将升级外部摄像头，为 AI5 硬件套件做准备](https://www.ithome.com/0/901/736.htm) `📊30` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/736.htm
+**50.** [🆕 AI什么邪门CP都嗑得下](https://s.weibo.com/weibo?q=%23AI%E4%BB%80%E4%B9%88%E9%82%AA%E9%97%A8CP%E9%83%BD%E5%97%91%E5%BE%97%E4%B8%8B%23&t=31&band_rank=26&Refer=top) `📊26` • 📺 微博 🖱️ https://s.weibo.com/weibo?q=%23AI%E4%BB%80%E4%B9%88%E9%82%AA%E9%97%A8CP%E9%83%BD%E5%97%91%E5%BE%97%E4%B8%8B%23&t=31&band_rank=26&Refer=top
+
+**51.** [Sycophancy is the first LLM "dark pattern"](https://news.ycombinator.com/item?id=46112640) `📊27` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46112640
+
+**52.** [特斯拉疑似将升级外部摄像头，为 AI5 硬件套件做准备](https://www.ithome.com/0/901/736.htm) `📊30` • 📺 IT之家 🖱️ https://www.ithome.com/0/901/736.htm
 
 ---
 
