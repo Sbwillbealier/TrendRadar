@@ -6,74 +6,82 @@
 | 项目 | 内容 |
 |------|------|
 | **报告类型** | 当日汇总 |
-| **新闻总数** | 363 条 |
-| **热点新闻** | 28 条 |
-| **生成时间** | 12-03 10:49 |
+| **新闻总数** | 445 条 |
+| **热点新闻** | 32 条 |
+| **生成时间** | 12-03 11:53 |
 
 
 ## 🔥 热点词汇统计
 
-### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (28 条)
+### 🔥 人工智能 机器学习 深度学习 大语言模型 生成式AI 神经网络 自然语言处理 计算机视觉 AI编程 AI绘画 ChatGPT AI芯片 Artificial Intelligence AI Machine Learning Deep Learning Large Language Model LLM Generative AI GenAI Neural Network Natural Language Processing NLP Computer Vision ChatGPT OpenAI AI Chip (32 条)
 
 [1/1]
 
 ---
 
-**1.** [在所有想法都能通过 ai 落地的情况下，最想 ai agent 帮忙解决什么问题](https://www.v2ex.com/t/1176535) `🏆1` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176535
+**1.** [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://news.ycombinator.com/item?id=46124324) `🏆2-3` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46124324
 
-**2.** [Claude AI 的“价值观”排序首次公开：安全第一，帮助用户排第四](https://www.ithome.com/0/902/062.htm) `🏆2` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/062.htm
+**2.** [亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”](https://wallstreetcn.com/articles/3760564) `⭐4` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760564
 
-**3.** [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://news.ycombinator.com/item?id=46124324) `🏆3` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46124324
+**3.** [🆕 瞳行科技发布国内首款 AI 助盲眼镜，基于阿里通义千问打造](https://www.ithome.com/0/902/077.htm) `⭐4` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/077.htm
 
-**4.** [亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”](https://wallstreetcn.com/articles/3760564) `⭐4` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760564
+**4.** [在所有想法都能通过 ai 落地的情况下，最想 ai agent 帮忙解决什么问题](https://www.v2ex.com/t/1176535) `🏆1-6` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176535
 
-**5.** [觉得画流程图太麻烦，用 lovable 做了个 AI 辅助画流程图的工具](https://www.v2ex.com/t/1176512) `⭐4` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176512
+**5.** [OpenAI declares 'code red' as Google catches up in AI race](https://news.ycombinator.com/item?id=46121870) `⭐5-6` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46121870
 
-**6.** [webview2 (wails) 应用真的比 electron 应用更省内存吗？但似乎不是这样， 实测: Windows 任务管理器骗了你！](https://www.v2ex.com/t/1176510) `⭐5` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176510
+**6.** [Claude AI 的“价值观”排序首次公开：安全第一，帮助用户排第四](https://www.ithome.com/0/902/062.htm) `🏆2-15` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/062.htm
 
-**7.** [12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务](https://www.cls.cn/detail/2217771) `📊6` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2217771
+**7.** [觉得画流程图太麻烦，用 lovable 做了个 AI 辅助画流程图的工具](https://www.v2ex.com/t/1176512) `⭐4-9` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176512
 
-**8.** [谷歌 AI 编程工具曝出严重 BUG：一键执行，整个 D 盘被清空](https://www.ithome.com/0/902/057.htm) `📊6` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/057.htm
+**8.** [webview2 (wails) 应用真的比 electron 应用更省内存吗？但似乎不是这样， 实测: Windows 任务管理器骗了你！](https://www.v2ex.com/t/1176510) `⭐5-10` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176510
 
-**9.** [OpenAI declares 'code red' as Google catches up in AI race](https://news.ycombinator.com/item?id=46121870) `📊6` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46121870
+**9.** [12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务](https://www.cls.cn/detail/2217771) `📊6` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2217771
 
-**10.** [快速让 Claude Code 用上 Gemini/OpenAI/Copilot 的模型](https://www.v2ex.com/t/1176505) `📊7` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176505
+**10.** [Amazon launches Trainium3](https://news.ycombinator.com/item?id=46125155) `📊7` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46125155
 
-**11.** [Amazon launches Trainium3](https://news.ycombinator.com/item?id=46125155) `📊7` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46125155
+**11.** [中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速](https://wallstreetcn.com/articles/3760517) `📊7-8` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760517
 
-**12.** [中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速](https://wallstreetcn.com/articles/3760517) `📊8` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760517
+**12.** [谷歌 AI 编程工具曝出严重 BUG：一键执行，整个 D 盘被清空](https://www.ithome.com/0/902/057.htm) `📊6-19` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/057.htm
 
-**13.** [豆包AI助手"理想丰满现实骨感"？大摩：手机大厂更倾向自研，要落地很困难](https://wallstreetcn.com/articles/3760506) `📊9` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760506
+**13.** [快速让 Claude Code 用上 Gemini/OpenAI/Copilot 的模型](https://www.v2ex.com/t/1176505) `📊7-12` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176505
 
-**14.** [端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？](https://www.cls.cn/detail/2217832) `📊9` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2217832
+**14.** [端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？](https://www.cls.cn/detail/2217832) `📊8-9` • 📺 财联社热门 🖱️ https://www.cls.cn/detail/2217832
 
-**15.** [我做了一个能“演戏”的 AI 阅读器，支持多角色情感配音 + 自动生成人物关系图，求 V 友狠喷/建议](https://www.v2ex.com/t/1176486) `📊9` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176486
+**15.** [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://news.ycombinator.com/item?id=46094606) `📊9` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46094606
 
-**16.** [Qwen3-VL can scan two-hour videos and pinpoint nearly every detail](https://news.ycombinator.com/item?id=46094606) `📊9` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46094606
+**16.** [我做了一个能“演戏”的 AI 阅读器，支持多角色情感配音 + 自动生成人物关系图，求 V 友狠喷/建议](https://www.v2ex.com/t/1176486) `📊9-14` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176486
 
-**17.** [Ecosia: The greenest AI is here](https://news.ycombinator.com/item?id=46126964) `📊12` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46126964
+**17.** [Ecosia: The greenest AI is here](https://news.ycombinator.com/item?id=46126964) `📊12-15` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46126964
 
 **18.** [microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) `📊12` • 📺 GitHub 🖱️ https://github.com/microsoft/call-center-ai
 
-**19.** [HPE 携手博通推出 AMD "Helios" AI 机架，搭载业界首创纵向扩展以太网](https://www.ithome.com/0/902/037.htm) `📊14` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/037.htm
+**19.** [HPE 携手博通推出 AMD "Helios" AI 机架，搭载业界首创纵向扩展以太网](https://www.ithome.com/0/902/037.htm) `📊14-27` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/037.htm
 
-**20.** [苹果新研究：AI 可从 Apple Watch 光学传感器中挖掘更深入的心脏健康数据](https://www.ithome.com/0/902/035.htm) `📊16` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/035.htm
+**20.** [苹果新研究：AI 可从 Apple Watch 光学传感器中挖掘更深入的心脏健康数据](https://www.ithome.com/0/902/035.htm) `📊16-29` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/035.htm
 
-**21.** [Dev Containers 在 antigravity 没法使用](https://www.v2ex.com/t/1176421) `📊17` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176421
+**21.** [Dev Containers 在 antigravity 没法使用](https://www.v2ex.com/t/1176421) `📊17-22` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176421
 
-**22.** [Mistral AI 推出 Mistral 3 系列模型：从 3B 到 675B，Apache 2.0 开源](https://www.ithome.com/0/902/033.htm) `📊18` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/033.htm
+**22.** [萌翻（AI 翻译/AI 词典），给大家发个 AI 额度福利，感谢 V2EX 的很多创意和意见](https://www.v2ex.com/t/1176355) `📊24-29` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176355
 
-**23.** [Marvell 美满拟以 32.5 亿美元收购光学 I/O 技术企业 Celestial AI](https://www.ithome.com/0/902/027.htm) `📊23` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/027.htm
+**23.** [AI generated font using Nano Banana](https://news.ycombinator.com/item?id=46127400) `📊28-29` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46127400
 
-**24.** [萌翻（AI 翻译/AI 词典），给大家发个 AI 额度福利，感谢 V2EX 的很多创意和意见](https://www.v2ex.com/t/1176355) `📊24` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176355
+**24.** [豆包AI助手"理想丰满现实骨感"？大摩：手机大厂更倾向自研，要落地很困难](https://wallstreetcn.com/articles/3760506) `📊9` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760506
 
-**25.** [讨论下 AI 时代的软件架构与协作关系的几个可能的变化](https://www.v2ex.com/t/1176343) `📊27` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176343
+**25.** [🆕 小鹏 AI 天玑 XOS 5.8.5 全量推送，新增车位到车位焕新版、vivo 手机镜像等功能](https://www.ithome.com/0/902/069.htm) `📊9` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/069.htm
 
-**26.** [谷歌测试用 AI 改写新闻标题引争议：被吐槽标题党且未清晰标注](https://www.ithome.com/0/902/022.htm) `📊27` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/022.htm
+**26.** [🆕 缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施](https://wallstreetcn.com/articles/3760522) `📊10` • 📺 华尔街见闻 🖱️ https://wallstreetcn.com/articles/3760522
 
-**27.** [AI generated font using Nano Banana](https://news.ycombinator.com/item?id=46127400) `📊28` • 📺 Hacker News 🖱️ https://news.ycombinator.com/item?id=46127400
+**27.** [🆕 每本书最高赔 15 万美元：OpenAI 涉嫌“恶意侵权”恐面临天价罚款](https://www.ithome.com/0/902/068.htm) `📊10` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/068.htm
 
-**28.** [时至今日，似乎还办法从 figma 设计图像素级的生成代码？这不应该是 AI 擅长领域吗？](https://www.v2ex.com/t/1176321) `📊29` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176321
+**28.** [Mistral AI 推出 Mistral 3 系列模型：从 3B 到 675B，Apache 2.0 开源](https://www.ithome.com/0/902/033.htm) `📊18` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/033.htm
+
+**29.** [Marvell 美满拟以 32.5 亿美元收购光学 I/O 技术企业 Celestial AI](https://www.ithome.com/0/902/027.htm) `📊23` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/027.htm
+
+**30.** [讨论下 AI 时代的软件架构与协作关系的几个可能的变化](https://www.v2ex.com/t/1176343) `📊27` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176343
+
+**31.** [谷歌测试用 AI 改写新闻标题引争议：被吐槽标题党且未清晰标注](https://www.ithome.com/0/902/022.htm) `📊27` • 📺 IT之家 🖱️ https://www.ithome.com/0/902/022.htm
+
+**32.** [时至今日，似乎还办法从 figma 设计图像素级的生成代码？这不应该是 AI 擅长领域吗？](https://www.v2ex.com/t/1176321) `📊29` • 📺 V2EX 🖱️ https://www.v2ex.com/t/1176321
 
 ---
 
